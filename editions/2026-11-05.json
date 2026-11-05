@@ -1,0 +1,589 @@
+{
+ "covers": "Covers Nov 4, 9:00 AM – Nov 5, 9:00 AM CT",
+ "date": "2026-11-05",
+ "generatedAt": "2026-11-05T14:58:00Z",
+ "overview": [
+  "Democrats won control of both the House and Senate in a midterm sweep; Senate races in Mississippi and Alaska are still too close to call.",
+  "Trump and VP JD Vance both said the Iran war was a major reason Republicans lost, as Trump also warned of a possible 'heavy hit' on Iran.",
+  "Wall Street rallied hard on the results: the Dow jumped about 3%, and Brent oil fell below $100 a barrel.",
+  "In Missouri, voters rejected the Amendment 3 abortion ban and Democrats broke the GOP supermajority in the state House."
+ ],
+ "sections": [
+  {
+   "key": "us",
+   "stories": [
+    {
+     "headline": "Democrats win control of the House and Senate",
+     "people": [
+      {
+       "name": "Hakeem Jeffries",
+       "role": "House Democratic leader, likely next Speaker"
+      },
+      {
+       "name": "Chuck Schumer",
+       "role": "Senate Democratic leader"
+      },
+      {
+       "name": "John Thune",
+       "role": "Senate Republican leader"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      },
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html"
+      }
+     ],
+     "summary": "CBS News projects Democrats will hold roughly 251 to 268 House seats, with dozens of races still being counted. Democrats have at least 54 Senate seats after flipping Republican-held seats including Texas, Ohio, Iowa, Kansas, Maine and South Carolina. CNBC reported Republicans did not flip a single seat.",
+     "whyItMatters": "From January, Democrats will control what bills move in Congress and can launch investigations, putting a check on President Trump for his final two years."
+    },
+    {
+     "headline": "Trump accepts results, says Iran war hurt Republicans",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "JD Vance",
+       "role": "Vice President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it"
+      }
+     ],
+     "summary": "Trump said he would accept the results and was surprised by the losses, while blaming GOP candidates and saying he would have won if he were on the ballot. He acknowledged the Iran war and high gas prices were largely behind the defeat but said the war was necessary. Vice President JD Vance called the war 'the reason we lost.'",
+     "whyItMatters": "Top Republicans openly linking the loss to the war could shape how the White House handles Iran and how the party positions itself for 2028."
+    },
+    {
+     "headline": "Leadership shake-up: Jeffries runs for Speaker, Johnson steps back",
+     "people": [
+      {
+       "name": "Hakeem Jeffries",
+       "role": "House Democratic leader (D-NY)"
+      },
+      {
+       "name": "Mike Johnson",
+       "role": "House Speaker (R-LA)"
+      },
+      {
+       "name": "Steve Scalise",
+       "role": "House Majority Leader (R-LA)"
+      },
+      {
+       "name": "Jim Jordan",
+       "role": "House Judiciary chair (R-OH)"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      }
+     ],
+     "summary": "Hakeem Jeffries formally launched his bid for Speaker and is expected to win; he would be the first Black Speaker. Speaker Mike Johnson said he will not seek to lead House Republicans in the minority. Majority Leader Steve Scalise and Judiciary Chair Jim Jordan are both running for minority leader.",
+     "whyItMatters": "The Scalise–Jordan contest will decide whether House Republicans are led by a party-establishment figure or a hardline Trump ally."
+    },
+    {
+     "headline": "Mississippi and Alaska Senate races still too close to call",
+     "people": [
+      {
+       "name": "Scott Colom",
+       "role": "Democratic Senate candidate, Mississippi"
+      },
+      {
+       "name": "Cindy Hyde-Smith",
+       "role": "Republican senator, Mississippi"
+      },
+      {
+       "name": "Mary Peltola",
+       "role": "Democratic Senate candidate, Alaska"
+      },
+      {
+       "name": "Dan Sullivan",
+       "role": "Republican senator, Alaska"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska"
+      },
+      {
+       "name": "France 24",
+       "url": "https://www.france24.com/en/live-news/20261104-mississippi-cliffhanger-alaska-count-continues-in-us-senate-races"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/Politics/recounts-mississippi-razor-thin-margin-senate-race/story?id=137844445"
+      }
+     ],
+     "summary": "In Mississippi, Democrat Scott Colom led Sen. Cindy Hyde-Smith by about 1,100 votes Wednesday night, with mail and affidavit ballots still out and certification due Nov. 13. In Alaska, Democrat Mary Peltola led Sen. Dan Sullivan by 637 votes with nearly a quarter of votes uncounted; ranked-choice results come Nov. 18.",
+     "whyItMatters": "Winning both would push Democrats to 56 seats, closer to the 60 needed to overcome a filibuster. Mississippi has no automatic recount, so a court fight is possible."
+    },
+    {
+     "headline": "Pressure grows on Defense Secretary Hegseth",
+     "people": [
+      {
+       "name": "Pete Hegseth",
+       "role": "Defense Secretary"
+      },
+      {
+       "name": "Thomas Massie",
+       "role": "Republican congressman, Kentucky"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      }
+     ],
+     "summary": "Rep. Thomas Massie, a Republican, plans to force a House vote to impeach Defense Secretary Pete Hegseth when Congress returns next week, and Republican sources expect it to pass. CBS reported Trump had asked advisers about removing Hegseth, but Trump publicly said he is doing 'a very good job.'",
+     "whyItMatters": "Hegseth is the face of the Iran war; a successful House impeachment vote would be a major rebuke even before Democrats take over."
+    }
+   ],
+   "title": "United States"
+  },
+  {
+   "key": "local",
+   "stories": [
+    {
+     "headline": "Missouri: Amendment 3 fails, Democrats break state House supermajority",
+     "people": [
+      {
+       "name": "Fred Wellman",
+       "role": "Democratic congressman-elect, MO-2 (St. Louis suburbs)"
+      },
+      {
+       "name": "Ann Wagner",
+       "role": "Outgoing Republican congresswoman, MO-2"
+      },
+      {
+       "name": "Jake Zimmerman",
+       "role": "St. Louis County executive-elect"
+      },
+      {
+       "name": "Mike Kehoe",
+       "role": "Republican governor of Missouri"
+      }
+     ],
+     "sources": [
+      {
+       "name": "St. Louis Public Radio",
+       "url": "https://www.stlpr.org/government-politics-issues/2026-11-04/7-takeaways-from-the-blue-wave-that-missouri-democrats-rode-to-best-election-of-21st-century"
+      },
+      {
+       "name": "Missouri Independent",
+       "url": "https://missouriindependent.com/2026/11/04/democrats-flip-16-missouri-house-seats-ending-republican-supermajority/"
+      },
+      {
+       "name": "St. Louis Post-Dispatch",
+       "url": "https://www.stltoday.com/news/local/government-politics/article_b52ff175-171b-4bee-8a43-9792d4646d51.html"
+      }
+     ],
+     "summary": "Missouri voters rejected Amendment 3, which would have reinstated an abortion ban, by a wider margin than the 2024 abortion-rights vote. Democrats flipped 16 state House seats and two state Senate seats, and Prop A, which would have kept the Trump-backed congressional map, also failed. In the 2nd District, Democrat Fred Wellman defeated longtime Rep. Ann Wagner, and Jake Zimmerman won St. Louis County executive.",
+     "whyItMatters": "It is Missouri Democrats' best election this century and weakens Gov. Mike Kehoe's agenda; west St. Louis County, once a GOP base, has shifted blue."
+    },
+    {
+     "headline": "Historic firsts in governor races: Bottoms in Georgia, Donalds in Florida",
+     "people": [
+      {
+       "name": "Keisha Lance Bottoms",
+       "role": "Democratic governor-elect, Georgia; former Atlanta mayor"
+      },
+      {
+       "name": "Byron Donalds",
+       "role": "Republican governor-elect, Florida; congressman"
+      },
+      {
+       "name": "Deb Haaland",
+       "role": "Democratic governor-elect, New Mexico; former Interior Secretary"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Root",
+       "url": "https://www.theroot.com/rising-political-stars-to-watch-after-the-2026-midterms-2000133844"
+      },
+      {
+       "name": "NBC News (Florida results)",
+       "url": "https://www.nbcnews.com/politics/2026-elections/florida-governor-results"
+      }
+     ],
+     "summary": "Democrat Keisha Lance Bottoms won Georgia, becoming the first Black woman elected governor in US history. Republican Byron Donalds won Florida, becoming that state's first Black governor. Democrats also elected David Crowley in Wisconsin, Aaron Ford in Nevada and Deb Haaland in New Mexico, each a first for their state.",
+     "whyItMatters": "Bottoms, a former Atlanta mayor, is now a national Democratic figure; Donalds is one of the GOP's most prominent rising stars and kept Florida red in a bad year for his party."
+    },
+    {
+     "headline": "Upsets in Texas and Ohio: Hinojosa beats Abbott, Acton beats Ramaswamy",
+     "people": [
+      {
+       "name": "Gina Hinojosa",
+       "role": "Democratic governor-elect, Texas; state legislator from Austin"
+      },
+      {
+       "name": "Greg Abbott",
+       "role": "Outgoing Republican governor, Texas"
+      },
+      {
+       "name": "Amy Acton",
+       "role": "Democratic governor-elect, Ohio"
+      },
+      {
+       "name": "Vivek Ramaswamy",
+       "role": "Republican candidate for Ohio governor"
+      }
+     ],
+     "sources": [
+      {
+       "name": "NBC News (Texas results)",
+       "url": "https://www.nbcnews.com/politics/2026-elections/texas-governor-results"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+      }
+     ],
+     "summary": "Democratic state Rep. Gina Hinojosa defeated three-term Texas Gov. Greg Abbott. In Ohio, Democrat Amy Acton, the former state health director, defeated Republican Vivek Ramaswamy. In Texas's Senate race, Democrat James Talarico beat Republican Ken Paxton.",
+     "whyItMatters": "Texas has not had a Democratic governor since the 1990s; these wins put Hinojosa, Acton and Talarico at the center of talk about a Democratic comeback in red states."
+    },
+    {
+     "headline": "New faces to watch: El-Sayed, Kiros, Flanagan and Talarico",
+     "people": [
+      {
+       "name": "Abdul El-Sayed",
+       "role": "Democratic senator-elect, Michigan"
+      },
+      {
+       "name": "Melat Kiros",
+       "role": "Democratic congresswoman-elect, Colorado's 1st District"
+      },
+      {
+       "name": "Peggy Flanagan",
+       "role": "Democratic senator-elect, Minnesota; lieutenant governor"
+      },
+      {
+       "name": "James Talarico",
+       "role": "Democratic senator-elect, Texas"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Nation",
+       "url": "https://www.thenation.com/article/politics/democrats-blue-wave-midterms-trum-victory/"
+      },
+      {
+       "name": "The Root",
+       "url": "https://www.theroot.com/rising-political-stars-to-watch-after-the-2026-midterms-2000133844"
+      },
+      {
+       "name": "The Hill",
+       "url": "https://thehill.com/newsletters/on-the-ballot/6198821-blue-wave-midterm-milestones/"
+      }
+     ],
+     "summary": "Abdul El-Sayed won Michigan's Senate race and will be the first Muslim US senator. Melat Kiros, 29, a democratic socialist who won Colorado's 1st District, is the first Gen Z woman elected to Congress. Peggy Flanagan won in Minnesota and will be the first Native American woman in the Senate.",
+     "whyItMatters": "Progressive groups are calling this their best night in a generation, and these newcomers are likely to push Democrats to the left in the next Congress."
+    },
+    {
+     "headline": "NYC voters pass all five of Mayor Mamdani's ballot proposals",
+     "people": [
+      {
+       "name": "Zohran Mamdani",
+       "role": "Mayor of New York City (Democrat)"
+      }
+     ],
+     "sources": [
+      {
+       "name": "6sqft",
+       "url": "https://www.6sqft.com/nyc-voters-approve-all-five-mamdani-ballot-proposals-heres-what-changes"
+      },
+      {
+       "name": "City & State NY",
+       "url": "https://www.cityandstateny.com/politics/2026/11/mamdanis-five-ballot-proposals-appear-set-pass/417019/"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+      }
+     ],
+     "summary": "New York City voters approved all five charter changes backed by Mayor Zohran Mamdani, each with more than 60% support in unofficial results. They speed up permits, city contracting and street-safety projects, and set a rainy-day fund target of 12% of tax revenue. Separately, a state appeals court ruled his tax on second homes worth $5 million or more can go forward.",
+     "whyItMatters": "The results give Mamdani, a democratic socialist in his first term, a clear voter mandate for his 'faster government' agenda."
+    }
+   ],
+   "title": "States & Local"
+  },
+  {
+   "key": "world",
+   "stories": [
+    {
+     "headline": "Iran war: Trump weighs a 'heavy hit' as tankers burn near Hormuz",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "US President"
+      },
+      {
+       "name": "Mojtaba Khamenei",
+       "role": "Iran's Supreme Leader"
+      },
+      {
+       "name": "Masoud Pezeshkian",
+       "role": "Iran's President"
+      },
+      {
+       "name": "Mohammad Bagher Ghalibaf",
+       "role": "Iran's parliament speaker and chief negotiator"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+      }
+     ],
+     "summary": "Trump told Fox News the US may need to 'do something large' against Iran, though he told the Financial Times he had no immediate plans for new strikes. Iran's Revolutionary Guards said several tankers that used unauthorized routes through the Strait of Hormuz hit mines and caught fire. Iranian leaders mocked the midterm results, while President Pezeshkian said Iran still wants a negotiated end; Qatar is mediating a draft deal.",
+     "whyItMatters": "Hormuz carries a large share of the world's oil, so the choice between escalation and a deal will drive fuel prices and inflation globally."
+    },
+    {
+     "headline": "Indonesia sends thousands of troops to Jakarta amid wiretapping scandal",
+     "people": [
+      {
+       "name": "Prabowo Subianto",
+       "role": "President of Indonesia"
+      },
+      {
+       "name": "Listyo Sigit Prabowo",
+       "role": "Former police chief, presidential chief of staff"
+      },
+      {
+       "name": "Agus Subiyanto",
+       "role": "Indonesian military (TNI) commander"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Jakarta Post",
+       "url": "https://www.thejakartapost.com/indonesia/2026/11/05/troops-descend-on-jakarta-amid-wiretapping-scandal"
+      },
+      {
+       "name": "The Jakarta Post",
+       "url": "http://www.thejakartapost.com/indonesia/2026/11/04/three-police-generals-named-in-plot-to-bug-prabowo"
+      },
+      {
+       "name": "South China Morning Post",
+       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3373449/indonesian-wiretapping-scandal-exposes-widening-prabowo-jokowi-rift"
+      }
+     ],
+     "summary": "Police named three senior officers as suspects in an alleged illegal wiretapping scheme that targeted phones including President Prabowo Subianto's, along with officials, journalists and activists. Former national police chief Listyo Sigit Prabowo, recently made presidential chief of staff, is believed to be among them. The military is moving thousands of personnel into Jakarta, with a plan for nearly 21,000 Navy troops in phases.",
+     "whyItMatters": "The scandal points to a deepening split between Prabowo and allies of former President Joko Widodo, and the troop buildup has put Jakarta on edge."
+    },
+    {
+     "headline": "Netanyahu's hold weakens as Eisenkot gathers more endorsements",
+     "people": [
+      {
+       "name": "Benjamin Netanyahu",
+       "role": "Israeli Prime Minister (Likud)"
+      },
+      {
+       "name": "Gadi Eisenkot",
+       "role": "Opposition leader, Yashar! party"
+      },
+      {
+       "name": "Isaac Herzog",
+       "role": "President of Israel"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Ynet News",
+       "url": "https://www.ynetnews.com/article/rydawnytgl"
+      },
+      {
+       "name": "Times of Israel",
+       "url": "https://www.timesofisrael.com/liveblog_entry/united-torah-judaism-declines-to-endorse-candidate-for-prime-minister-in-herzog-consultations/"
+      },
+      {
+       "name": "The Globe and Mail",
+       "url": "https://www.theglobeandmail.com/world/article-israel-election-netanyahu-eisenkot-leadership-battle/"
+      }
+     ],
+     "summary": "After Israel's election, the ultra-Orthodox United Torah Judaism party declined to back Benjamin Netanyahu for prime minister. Rival Gadi Eisenkot is projected to have about 56 Knesset members behind him to Netanyahu's 46, both short of the 61 needed. President Isaac Herzog will choose who gets the first chance to form a government.",
+     "whyItMatters": "Netanyahu could lose power for the first time in years, which would affect Israel's role in the Iran war and Gaza."
+    },
+    {
+     "headline": "Ukraine: aid-center strike toll rises to 42 ahead of new peace talks",
+     "people": [
+      {
+       "name": "Volodymyr Zelenskyy",
+       "role": "President of Ukraine"
+      },
+      {
+       "name": "Steve Witkoff",
+       "role": "US special envoy"
+      },
+      {
+       "name": "Jared Kushner",
+       "role": "US envoy"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+      },
+      {
+       "name": "Kyiv Post",
+       "url": "https://www.kyivpost.com/post/88932"
+      }
+     ],
+     "summary": "The death toll from a Russian strike on a humanitarian aid center in Komyshuvakha, Zaporizhzhia region, rose to 42, with more people still under rubble, according to local police. President Zelenskyy spoke for 90 minutes with US envoys Steve Witkoff and Jared Kushner in Brussels ahead of three-way talks set for Nov. 10–11.",
+     "whyItMatters": "The talks are the next real test of whether a US-brokered deal to end the war is possible."
+    },
+    {
+     "headline": "Hong Kong activist Joshua Wong sentenced to 10 more years",
+     "people": [
+      {
+       "name": "Joshua Wong",
+       "role": "Hong Kong pro-democracy activist"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Hong Kong Free Press",
+       "url": "https://hongkongfp.com/2026/11/05/breaking-jailed-hong-kong-activist-joshua-wong-sentenced-to-10-years-over-foreign-collusion/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail"
+      },
+      {
+       "name": "NPR",
+       "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+      }
+     ],
+     "summary": "A Hong Kong court sentenced pro-democracy activist Joshua Wong to 10 years in prison for conspiring to collude with foreign forces under the national security law. Wong, already jailed, had pleaded guilty in September. Amnesty International called the sentence cruel.",
+     "whyItMatters": "It is one of the heaviest sentences yet against a well-known Hong Kong activist and signals Beijing's continued crackdown on dissent."
+    }
+   ],
+   "title": "World"
+  },
+  {
+   "key": "econ",
+   "stories": [
+    {
+     "headline": "Dow jumps 3% in best post-midterm day in decades",
+     "people": [],
+     "sources": [
+      {
+       "name": "TheStreet",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+      },
+      {
+       "name": "CNN",
+       "url": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections"
+      }
+     ],
+     "summary": "The Dow rose 1,569 points (3.03%) to 53,356, the S&P 500 gained 1.58% to 7,689, and the Nasdaq rose 1.44%. Big Tech led, with Amazon, Microsoft and Apple each up more than 6% during the session. CNN said it was the Dow's best day after a midterm in 44 years.",
+     "whyItMatters": "Investors see divided government as lowering the risk of sudden policy shifts, and they are betting the results push the White House toward ending the Iran war."
+    },
+    {
+     "headline": "Oil drops sharply; Brent falls below $100",
+     "people": [],
+     "sources": [
+      {
+       "name": "TheStreet",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+      },
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+      },
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
+      }
+     ],
+     "summary": "Brent crude fell about $10 a barrel and slipped below $100 for the first time in weeks, trading near $94 on Thursday. Traders are betting the election results and signs of diplomacy will help end the Iran war and reopen Hormuz. Treasury yields also fell.",
+     "whyItMatters": "Lower oil prices could ease gas prices and inflation, which voters cited as a top concern."
+    },
+    {
+     "headline": "Bank of England raises rates for first time since 2023",
+     "people": [
+      {
+       "name": "Andrew Bailey",
+       "role": "Bank of England governor"
+      }
+     ],
+     "sources": [
+      {
+       "name": "MoneyWeek",
+       "url": "https://moneyweek.com/economy/news/live/uk-interest-rates-november-bank-of-england"
+      },
+      {
+       "name": "CNBC",
+       "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+      }
+     ],
+     "summary": "The Bank of England raised its key rate by a quarter point to 4%, on an 8–1 vote, with one member wanting a bigger hike. UK inflation hit 3.5% in September, and the bank expects it to reach about 5% by mid-2027, mostly due to energy prices from the Middle East conflict. Governor Andrew Bailey said this is not the start of a long run of hikes but likely not the last unless the conflict ends.",
+     "whyItMatters": "It shows the Iran war's energy shock is pushing some central banks to raise rates again, which could slow growth."
+    },
+    {
+     "headline": "Private employers added 86,000 jobs in October, beating forecasts",
+     "people": [],
+     "sources": [
+      {
+       "name": "Reuters via Yahoo Finance",
+       "url": "https://finance.yahoo.com/economy/articles/us-private-payrolls-rise-october-132734884.html"
+      },
+      {
+       "name": "Investing.com",
+       "url": "https://www.investing.com/news/economic-indicators/us-private-payrolls-rise-in-october-adp-says-4999414"
+      }
+     ],
+     "summary": "ADP said private payrolls grew by 86,000 in October, above the 69,000 economists expected. Job openings rose to 1.06 per unemployed person in September. The official government jobs report is due Friday, with forecasts of about 65,000 jobs and unemployment steady at 4.2%.",
+     "whyItMatters": "Steady hiring despite the war suggests the US economy is holding up, which affects how the Fed weighs rate moves."
+    },
+    {
+     "headline": "3M agrees to $7.35 billion 'forever chemicals' settlement",
+     "people": [],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/"
+      }
+     ],
+     "summary": "3M agreed to pay $7.35 billion to settle personal injury claims tied to PFAS chemicals in firefighting foam. Separately, Treasury sanctioned companies and people in India and Turkey for helping Iran sell oil.",
+     "whyItMatters": "The 3M deal is one of the largest PFAS settlements yet and adds to pressure on companies over chemical pollution; the sanctions show the US is still squeezing Iran's oil revenue."
+    }
+   ],
+   "title": "Economy & Markets"
+  }
+ ]
+}

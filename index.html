@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="A daily 9AM news brief: US, states and local, world, and the economy.">
+<style>[hidden]{display:none!important}*,*::before,*::after{box-sizing:border-box}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}img{max-width:100%}</style>
+<title>The 9AM Brief</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500;700&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: one centered 2000s phone on baby-sky-blue; news cards render inside its LCD screen; d-pad hot zones flip stories. Single deliberate light look. */
+:root{
+  color-scheme:light;
+  --sky:#bfe4fa; --sky2:#e3f4fd; --lcd:#f3f8fc; --lcd-ink:#1b2a3a; --lcd-muted:#5d7083;
+  --pink:#e2459b; --us:#d23a4a; --world:#118a7e; --econ:#b0700a; --local:#7a4fd0; --rule:#c9d8e6;
+  --pixel:"Pixelify Sans","Courier New",monospace;
+  --read:"Atkinson Hyperlegible",system-ui,-apple-system,sans-serif;
+}
+html,body{height:100%}
+body{margin:0;background:radial-gradient(ellipse 60% 40% at 20% 15%,var(--sky2),transparent 70%),radial-gradient(ellipse 50% 35% at 85% 80%,var(--sky2),transparent 70%),var(--sky);color:var(--lcd-ink);font-family:var(--read);overflow-x:hidden}
+.stage{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:16px;box-sizing:border-box}
+.phone{position:relative;width:min(335px,70vw,calc((100svh - 110px) * .43));aspect-ratio:var(--arw)/var(--arh);max-width:100%;isolation:isolate}
+.phone::after{content:"";position:absolute;left:10%;right:10%;bottom:-2.5%;height:4%;background:radial-gradient(closest-side,rgba(56,104,142,.30),rgba(56,104,142,0));z-index:-1;pointer-events:none}
+.phone img{position:absolute;inset:0;width:100%;height:100%;user-select:none;-webkit-user-drag:none;pointer-events:none}
+.screen{position:absolute;background:var(--lcd);display:flex;flex-direction:column;container-type:size;overflow:hidden;--u:calc(min(1cqw,1.3cqh) * var(--k,1))}
+.phone[data-kind="ipod"] .soft{display:none}
+.phone[data-kind="ipod"] .status{justify-content:center;gap:calc(4*var(--u))}
+.phone[data-kind="ipod"] .bars{display:none}
+.status{display:flex;align-items:center;justify-content:space-between;padding:1.6cqh calc(3*var(--u));background:linear-gradient(#dff0fb,#cfe6f6);font-family:var(--pixel);font-size:calc(5.6*var(--u));color:var(--lcd-ink);border-bottom:1px solid var(--rule)}
+.bars{display:inline-flex;align-items:flex-end;gap:calc(.8*var(--u));height:3.4cqh}
+.bars i{width:calc(1.3*var(--u));background:var(--lcd-ink);display:block}
+.batt{width:calc(7*var(--u));height:3cqh;border:1px solid var(--lcd-ink);position:relative;padding:1px;box-sizing:border-box}
+.batt::after{content:"";position:absolute;right:-2px;top:30%;height:40%;width:1.5px;background:var(--lcd-ink)}
+.batt b{display:block;height:100%;width:80%;background:var(--world)}
+.view{flex:1;overflow-y:auto;padding:calc(3*var(--u)) calc(4.2*var(--u)) calc(4*var(--u));-webkit-overflow-scrolling:touch;scrollbar-width:thin}
+.soft{display:flex;justify-content:space-between;align-items:center;padding:1.4cqh calc(4*var(--u));background:#fff;border-top:2px solid #111;font-family:var(--pixel);font-weight:700;font-size:calc(6*var(--u));color:#111}
+.tag{display:inline-flex;align-items:center;gap:calc(2*var(--u));font-family:var(--pixel);font-size:calc(5.2*var(--u));color:#fff;background:var(--c,var(--pink));padding:.6cqh calc(2.4*var(--u));border-radius:2px}
+.count{font-family:var(--pixel);font-size:calc(5.2*var(--u));color:var(--lcd-muted);float:right;font-variant-numeric:tabular-nums}
+h1,h2{font-family:var(--pixel);font-weight:700;line-height:1.12;margin:2.6cqh 0 1.6cqh;text-wrap:balance}
+h1{font-size:calc(10*var(--u));color:var(--pink)}
+h2{font-size:calc(8*var(--u));color:var(--lcd-ink)}
+p,li{font-size:calc(6.1*var(--u));line-height:1.42;margin:0 0 2cqh}
+ul{padding-left:calc(5*var(--u));margin:0}
+.why{background:color-mix(in srgb,var(--c,var(--pink)) 11%,#fff);border-left:3px solid var(--c,var(--pink));padding:1.4cqh calc(2.6*var(--u));margin:1.4cqh 0 2cqh}
+.why b,.lbl{display:block;font-family:var(--pixel);font-size:calc(5*var(--u));letter-spacing:.04em;text-transform:uppercase;color:var(--c,var(--pink));margin-bottom:.6cqh}
+.why p{margin:0;font-size:calc(5.8*var(--u))}
+.ppl{display:flex;flex-wrap:wrap;gap:calc(1.4*var(--u));margin-bottom:2cqh}
+.ppl span{font-size:calc(5.3*var(--u));border:1px solid var(--rule);background:#fff;padding:.4cqh calc(2*var(--u));border-radius:3px}
+.ppl em{font-style:normal;color:var(--lcd-muted)}
+.src a{display:inline-block;font-family:var(--pixel);font-size:calc(5.4*var(--u));color:#1f5fd6;margin:0 calc(3*var(--u)) 1cqh 0}
+.menu button{display:flex;width:100%;justify-content:space-between;align-items:center;font-family:var(--pixel);font-size:calc(7*var(--u));text-align:left;padding:1.8cqh calc(2.6*var(--u));border:0;border-bottom:1px solid var(--rule);background:transparent;color:var(--lcd-ink);cursor:pointer}
+.menu button:hover,.menu button:focus-visible,.menu button[aria-current="true"]{background:var(--pink);color:#fff;outline:none}
+.muted{color:var(--lcd-muted)}
+.us{--c:var(--us)}.world{--c:var(--world)}.econ{--c:var(--econ)}.local{--c:var(--local)}.cover{--c:var(--pink)}
+.hot{position:absolute;background:transparent;border:0;padding:0;cursor:pointer;border-radius:50%;-webkit-tap-highlight-color:transparent}
+.hot:active{background:rgba(226,69,155,.18)}
+.hot:focus-visible{outline:2px solid var(--pink);outline-offset:1px}
+.nav{display:flex;align-items:center;gap:22px}
+.cur{background:none;border:0;padding:4px;cursor:pointer;line-height:0;border-radius:8px}
+.cur img{width:26px;height:auto;image-rendering:pixelated;display:block;transition:transform .12s}
+#bPrev img{--r:-62deg}#bNext img{--r:62deg}
+.cur img{transform:rotate(var(--r))}
+.cur:hover img{transform:rotate(var(--r)) scale(1.1)}
+.cur:active img{transform:rotate(var(--r)) scale(.92)}
+.info{width:22px;height:22px;border-radius:50%;border:1.5px solid #6c8fae;background:transparent;color:#4e7394;font-family:var(--pixel);font-size:13px;line-height:1;cursor:pointer;padding:0}
+.info[aria-expanded="true"]{background:#fff;color:var(--pink);border-color:#fff}
+.cur:focus-visible,.info:focus-visible{outline:2px solid var(--pink);outline-offset:2px}
+.help{background:rgba(255,255,255,.85);border-radius:10px;padding:10px 14px;max-width:300px;font-size:13px;color:var(--lcd-ink);box-shadow:0 4px 14px rgba(40,90,130,.15)}
+.help p{font-size:13px;margin:4px 0;line-height:1.4}
+.help b{font-family:var(--pixel);color:var(--pink);margin-right:6px}
+.vrow{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:8px;padding-top:8px;border-top:1px solid var(--rule)}
+.vrow button{font-family:var(--pixel);font-size:13px;border:1.5px solid var(--pink);background:transparent;color:var(--pink);border-radius:999px;padding:2px 10px;cursor:pointer}
+.vrow button[aria-pressed="true"]{background:var(--pink);color:#fff}
+.vrow button:focus-visible{outline:2px solid var(--pink);outline-offset:2px}
+#voiceName{font-size:11px;color:var(--lcd-muted);width:100%}
+.cust{position:fixed;top:calc(12px + env(safe-area-inset-top,0px));right:max(14px,calc(env(safe-area-inset-right,0px) + 14px));z-index:20;display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.cust>button{font-family:var(--pixel);font-size:14px;color:#4e7394;background:rgba(255,255,255,.6);border:0;border-radius:999px;padding:6px 14px;cursor:pointer}
+.cust>button[aria-expanded="true"]{background:#fff;color:var(--pink)}
+.cust>button:focus-visible{outline:2px solid var(--pink);outline-offset:2px}
+.picker{display:grid;grid-template-columns:repeat(4,52px);gap:8px;background:rgba(255,255,255,.88);padding:10px;border-radius:12px;box-shadow:0 4px 14px rgba(40,90,130,.15)}
+.picker button{background:transparent;border:2px solid transparent;border-radius:8px;padding:4px;cursor:pointer;height:86px;display:flex;align-items:center;justify-content:center}
+.picker button[aria-pressed="true"]{border-color:var(--pink)}
+.picker button:focus-visible{outline:2px solid var(--pink)}
+.picker img{max-width:100%;max-height:100%;object-fit:contain}
+#call{display:inline-flex;align-items:center;gap:calc(1.6*var(--u));color:var(--pink)}
+#call .dot{width:calc(2.2*var(--u));height:calc(2.2*var(--u));border-radius:50%;background:var(--pink)}
+.status.oncall #clock{display:none}
+@media (prefers-reduced-motion:no-preference){#call .dot{animation:pulse 1.2s ease-in-out infinite}@keyframes pulse{50%{opacity:.25}}.view.flip{animation:flip .18s steps(3)}@keyframes flip{from{opacity:.2}to{opacity:1}}}
+</style>
+
+</head><body>
+<div class="cust">
+  <button id="bCust" aria-expanded="false" aria-controls="picker">customize</button>
+  <div class="picker" id="picker" hidden></div>
+</div>
+<div class="stage">
+  <div class="phone" id="phone">
+    <img id="skin" src="phone.png" alt="">
+    <div class="screen" id="screen" role="region" aria-label="News screen" aria-live="polite">
+      <div class="status"><span class="bars" aria-hidden="true"><i style="height:30%"></i><i style="height:55%"></i><i style="height:80%"></i><i style="height:100%"></i></span><span id="clock">9:00</span><span id="call" hidden><i class="dot"></i><span id="calltxt">Calling…</span></span><span class="batt" aria-hidden="true"><b></b></span></div>
+      <div class="view" id="view"><h1>The 9AM Brief</h1><p class="muted" id="note">Connecting…</p></div>
+      <div class="soft"><span id="softL">Option</span><span aria-hidden="true">▼</span><span id="softR">Standby</span></div>
+    </div>
+    <div id="hots"></div>
+  </div>
+  <div class="nav">
+    <button class="cur" id="bPrev" aria-label="Previous story"><img src="cursor-left.png" alt=""></button>
+    <button class="info" id="bInfo" aria-label="How to use" aria-expanded="false" aria-controls="help">i</button>
+    <button class="cur" id="bNext" aria-label="Next story"><img src="cursor-right.png" alt=""></button>
+  </div>
+  <div class="help" id="help" hidden></div>
+</div>
+
+<script>
+const SECS={us:"US",local:"STATES & LOCAL",world:"WORLD",econ:"ECONOMY"};
+const ORDER=["us","local","world","econ"];
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:"#";
+let editions=[],current=null,cards=[],idx=0,mode="card";
+function fmtDate(d){try{return new Date(d+"T12:00:00").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"})}catch{return d}}
+function tick(){const n=new Date();$("#clock").textContent=n.toLocaleTimeString("en-US",{hour:"numeric",minute:"2-digit"})}
+tick();setInterval(tick,30000);
+function build(){
+  const e=editions.find(x=>x.id===current);cards=[];
+  if(!e)return;
+  const d=e.data;cards.push({type:"cover",d});
+  for(const k of ORDER){const s=(d.sections||[]).find(x=>x.key===k);if(!s)continue;(s.stories||[]).forEach((st,i)=>cards.push({type:"story",k,i,n:s.stories.length,st}))}
+}
+function draw(){
+  const v=$("#view");v.classList.remove("flip");void v.offsetWidth;v.classList.add("flip");v.scrollTop=0;
+  if(mode==="sections"){
+    v.innerHTML=`<span class="lbl">Jump to</span><div class="menu">`+[["cover","Cover",0],...ORDER.map(k=>[k,SECS[k],cards.findIndex(c=>c.k===k)])].filter(x=>x[2]>=0).map(([k,t,i])=>`<button data-go="${i}">${t}<span>›</span></button>`).join("")+`</div>`;
+    v.querySelectorAll("[data-go]").forEach(b=>b.onclick=()=>jump(+b.dataset.go));v.querySelector("button")?.focus();return;
+  }
+  if(mode==="editions"){
+    v.innerHTML=`<span class="lbl">Past editions</span><div class="menu">`+editions.map(x=>`<button data-ed="${esc(x.id)}" aria-current="${x.id===current}">${esc(fmtDate(x.id))}<span>›</span></button>`).join("")+`</div>`;
+    v.querySelectorAll("[data-ed]").forEach(b=>b.onclick=()=>{stopAudio();current=b.dataset.ed;build();idx=0;mode="card";draw()});return;
+  }
+  const c=cards[idx];
+  if(!c){v.innerHTML=`<h1>The 9AM Brief</h1><p id="note">${esc(noteText)}</p><p class="muted">Every morning at 9:00 CT: the top 5 stories in US politics, world news and the economy.</p>`;return}
+  const pos=`<span class="count">${idx+1}/${cards.length}</span>`;
+  if(c.type==="cover"){
+    const d=c.d;
+    v.className="view cover flip";
+    v.innerHTML=`<span class="tag">TODAY</span>${pos}<h1>${esc(fmtDate(d.date||current))}</h1><p class="muted">${esc(d.covers||"")}</p>`+
+      (d.overview?.length?`<span class="lbl">In brief</span><ul>${d.overview.map(o=>`<li>${esc(o)}</li>`).join("")}</ul>`:"")+`<p class="muted">Press ▶ to start.</p>`;
+    return;
+  }
+  const s=c.st;
+  v.className=`view ${c.k} flip`;
+  v.innerHTML=`<span class="tag">${SECS[c.k]} · ${c.i+1}/${c.n}</span>${pos}<h2>${esc(s.headline)}</h2><p>${esc(s.summary)}</p>`+
+    (s.whyItMatters?`<div class="why"><b>Why it matters</b><p>${esc(s.whyItMatters)}</p></div>`:"")+
+    (s.people?.length?`<span class="lbl">Who's involved</span><div class="ppl">${s.people.map(p=>`<span>${esc(p.name)} <em>· ${esc(p.role)}</em></span>`).join("")}</div>`:"")+
+    (s.sources?.length?`<span class="lbl">Read more</span><div class="src">${s.sources.map(x=>`<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.name)} ↗</a>`).join("")}</div>`:"");
+}
+function go(d){if(!cards.length)return;jump((idx+d+cards.length)%cards.length)}
+function jump(i){idx=i;mode="card";draw();if(playing)speakFrom(idx,false)}
+/* ---- read-aloud: device voice, call style ---- */
+const TTS=("speechSynthesis" in window)?window.speechSynthesis:null;
+const LEADS={us:"First, the United States.",local:"Now, states and local politics.",world:"Next, around the world.",econ:"And finally, the economy and markets."};
+let playing=false,token=0,voice=null,callStart=0,callTimer=null,actx=null;
+let voiceGender="female";try{voiceGender=localStorage.getItem("brief-voice")||"female"}catch{}
+const FEM=/samantha|ava|allison|susan|victoria|karen|moira|serena|tessa|fiona|zoe|nicky|kate|joelle|aria|jenny|michelle|zira|emma|libby|sonia|natasha|female|google us english/i;
+const MALE=/\b(alex|daniel|tom|aaron|fred|evan|nathan|arthur|oliver|reed|rishi|guy|davis|eric|david|mark|ryan|christopher|andrew|brian|male)\b/i;
+function pickVoice(){if(!TTS)return;const vs=TTS.getVoices().filter(v=>/^en/i.test(v.lang));
+  const want=voiceGender==="male"?MALE:FEM,avoid=voiceGender==="male"?FEM:MALE;
+  const pool=vs.filter(v=>want.test(v.name)&&!(voiceGender==="male"&&/female/i.test(v.name)));
+  const q=[/natural|neural/i,/premium|enhanced/i,/en-US/i];
+  for(const r of q){const f=pool.find(v=>r.test(v.name)||r.test(v.lang));if(f){voice=f;return}}
+  voice=pool[0]||vs.find(v=>!avoid.test(v.name)&&/en-US/i.test(v.lang))||vs[0]||null}
+function setVoice(g){voiceGender=g;try{localStorage.setItem("brief-voice",g)}catch{};pickVoice();renderVoiceRow();
+  if(!playing&&TTS){const u=new SpeechSynthesisUtterance(g==="male"?"Hi Alexa, this is the male voice.":"Hi Alexa, this is the female voice.");if(voice)u.voice=voice;u.lang=voice?.lang||"en-US";u.rate=RATE;TTS.cancel();TTS.speak(u)}}
+function renderVoiceRow(){const r=document.getElementById("voiceRow");if(!r)return;r.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.g===voiceGender)));
+  const n=document.getElementById("voiceName");if(n)n.textContent=voice?voice.name:""}
+const RATE=1.2;
+if(TTS){pickVoice();TTS.onvoiceschanged=()=>{pickVoice();renderVoiceRow()}}
+function longDate(d){try{return new Date(d+"T12:00:00").toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric"})}catch{return d}}
+function scriptFor(c,withLead){
+  if(c.type==="cover"){const d=c.d;return d.spoken?.intro||`Hi Alexa, good morning. This is your 9AM Brief for ${longDate(d.date||current)}. Here's what you need to know. ${(d.overview||[]).join(" ")}`}
+  const s=c.st,lead=(withLead&&c.i===0&&LEADS[c.k])?LEADS[c.k]+" ":"";
+  return lead+(s.spoken||`${s.headline}. ${s.summary||""} ${s.whyItMatters?"Why it matters: "+s.whyItMatters:""}`);
+}
+function chunks(t){return (t.replace(/\s+/g," ").match(/[^.!?]+[.!?]+["'”’)]*|[^.!?]+$/g)||[t]).map(x=>x.trim()).filter(Boolean)}
+function say(text,my){return new Promise(res=>{const parts=chunks(text);let n=0;
+  const next=()=>{if(my!==token)return res(false);if(n>=parts.length)return res(true);
+    const u=new SpeechSynthesisUtterance(parts[n++]);if(voice)u.voice=voice;u.lang=voice?.lang||"en-US";u.rate=RATE;u.pitch=1;
+    u.onend=next;u.onerror=e=>{if(e.error==="interrupted"||e.error==="canceled")res(false);else next()};TTS.speak(u)};next()})}
+async function speakFrom(i,ring){
+  const my=++token;TTS.cancel();
+  if(ring)await ringTone(my);
+  while(my===token&&i<cards.length){
+    const ok=await say(scriptFor(cards[i],true),my);if(!ok||my!==token)return;
+    if(i<cards.length-1){await wait(450);if(my!==token)return;i++;idx=i;mode="card";draw()}else break;
+  }
+  if(my===token){const out=cards[0]?.d?.spoken?.outro||"That's your brief for today. Have a good one, Alexa. Talk tomorrow.";await say(out,my);if(my===token)stopAudio()}
+}
+const wait=ms=>new Promise(r=>setTimeout(r,ms));
+function ringTone(my){return new Promise(async res=>{try{actx=actx||new (window.AudioContext||window.webkitAudioContext)();await actx.resume()}catch{return res()}
+  const t0=actx.currentTime+.05;
+  for(let r=0;r<2;r++){const g=actx.createGain();g.connect(actx.destination);const st=t0+r*1.5;
+    g.gain.setValueAtTime(0,st);g.gain.linearRampToValueAtTime(.12,st+.03);g.gain.setValueAtTime(.12,st+.9);g.gain.linearRampToValueAtTime(0,st+.95);
+    for(const f of [440,480]){const o=actx.createOscillator();o.frequency.value=f;o.connect(g);o.start(st);o.stop(st+1)}}
+  setTimeout(res,2700)})}
+function callUI(on){const st=document.querySelector(".status");st.classList.toggle("oncall",on);$("#call").hidden=!on;clearInterval(callTimer);
+  if(on){callStart=Date.now();$("#calltxt").textContent="Calling…";callTimer=setInterval(()=>{const s=Math.floor((Date.now()-callStart)/1000);if(s<3)return;const t=s-3;$("#calltxt").textContent=`On call ${Math.floor(t/60)}:${String(t%60).padStart(2,"0")}`},500)}}
+function startAudio(){
+  if(!TTS){flash("Read-aloud isn't supported in this browser.");return}
+  if(!cards.length){flash("No edition to read yet.");return}
+  try{const u=new SpeechSynthesisUtterance(" ");u.volume=0;TTS.speak(u)}catch{}
+  playing=true;callUI(true);if(mode!=="card"){mode="card";draw()}
+  speakFrom(idx,idx===0);
+}
+function stopAudio(){token++;playing=false;try{TTS&&TTS.cancel()}catch{};callUI(false)}
+function flash(msg){const v=$("#view");const p=document.createElement("p");p.className="muted";p.textContent=msg;v.prepend(p);setTimeout(()=>p.remove(),3500)}
+const DEVICES={
+ silver:{name:"Silver phone",img:"phone.png",w:558,h:1022,kind:"phone",soft:["Option","Standby"],screen:[85,134,396,538],
+  keys:[["prev","Previous story",203,704,56,84,"50%"],["next","Next story",302,704,56,84,"50%"],["play","Play or pause read-aloud",262,720,38,52,"50%"],["sections","Sections menu",103,704,103,47,"6px"],["editions","Past editions",357,704,103,47,"6px"],["source","Open first source",48,716,59,78,"8px"],["cover","Back to cover",453,716,59,78,"8px"]],
+  help:[["Arrows","Flip stories. Swipe the screen or use the arrow keys too."],["Option","Jump to US, World or Economy."],["Standby","Past editions."],["Green key","Open the story's first source."],["Heart","Play or pause the news read aloud, like a call."],["Red key","Back to the cover."]]},
+ pink:{name:"Pink keyboard phone",k:.9,img:"pink.png",w:518,h:933,kind:"phone",soft:["Menu","Editions"],screen:[52,125,418,322],
+  keys:[["prev","Previous story",200,498,34,90,"8px"],["next","Next story",292,498,34,90,"8px"],["play","Play or pause read-aloud",236,520,54,44,"40%"],["sections","Sections menu",128,484,72,40,"8px"],["sections","Sections menu",128,543,72,55,"8px"],["editions","Past editions",328,484,72,40,"8px"],["cover","Back to cover",328,543,72,55,"8px"],["source","Open first source",43,506,66,70,"10px"],["cover","Back to cover",416,506,66,70,"10px"]],
+  help:[["Arrows","Flip stories. Swipe the screen, use the sides of the d-pad, or the arrow keys."],["Left key / TEXT","Jump to US, World or Economy."],["Right key","Past editions."],["Green key","Open the story's first source."],["Center button","Play or pause the news read aloud, like a call."],["Red key / BACK","Back to the cover."]]},
+ mini:{name:"Blue iPod mini",k:.95,img:"mini.png",w:675,h:1200,kind:"ipod",screen:[111,86,468,332],
+  keys:[["sections","Sections menu",270,585,150,75,"20px"],["prev","Previous story",90,770,95,110,"50%"],["next","Next story",505,770,95,110,"50%"],["editions","Past editions",285,995,120,75,"20px"],["play","Play or pause read-aloud",262,742,166,166,"50%"]],
+  help:[["Arrows / ⏮ ⏭","Flip stories. Swipe the screen or use the arrow keys too."],["Center button","Play or pause the news read aloud, like a call."],["MENU","Jump to a section or back to the cover."],["▶ II","Past editions."]]},
+ classic:{name:"Silver iPod classic",k:.78,img:"classic.png",w:736,h:1308,kind:"ipod",screen:[37,53,659,509],
+  keys:[["sections","Sections menu",300,690,135,75,"20px"],["prev","Previous story",130,870,95,110,"50%"],["next","Next story",508,870,95,110,"50%"],["editions","Past editions",310,1092,115,75,"20px"],["play","Play or pause read-aloud",284,842,166,166,"50%"]],
+  help:[["Arrows / ⏮ ⏭","Flip stories. Swipe the screen or use the arrow keys too."],["Center button","Play or pause the news read aloud, like a call."],["MENU","Jump to a section or back to the cover."],["▶ II","Past editions."]]}
+};
+const ACT={prev:()=>go(-1),next:()=>go(1),cover:()=>jump(0),play:()=>playing?stopAudio():startAudio(),
+ sections:()=>{if(!cards.length)return;mode=mode==="sections"?"card":"sections";draw()},
+ editions:()=>{if(!editions.length)return;mode=mode==="editions"?"card":"editions";draw()},
+ source:()=>{const u=cards[idx]?.st?.sources?.[0]?.url;if(u){const a=document.createElement("a");a.href=safeUrl(u);a.target="_blank";a.rel="noopener";a.click()}}};
+const pct=(v,t)=>(v/t*100).toFixed(3)+"%";
+function applyDevice(key){
+  const D=DEVICES[key]||DEVICES.silver;const ph=$("#phone");
+  ph.dataset.kind=D.kind;ph.style.setProperty("--k",D.k||1);ph.style.setProperty("--ar",(D.w/D.h).toFixed(4));ph.style.setProperty("--arw",D.w);ph.style.setProperty("--arh",D.h);
+  $("#skin").src=D.img;
+  const [x,y,w,h]=D.screen,sc=$("#screen").style;sc.left=pct(x,D.w);sc.top=pct(y,D.h);sc.width=pct(w,D.w);sc.height=pct(h,D.h);
+  if(D.soft){$("#softL").textContent=D.soft[0];$("#softR").textContent=D.soft[1]}
+  tick();
+  $("#hots").innerHTML=D.keys.map(([a,l,kx,ky,kw,kh,r],i)=>`<button class="hot" data-act="${a}" aria-label="${l}" style="left:${pct(kx,D.w)};top:${pct(ky,D.h)};width:${pct(kw,D.w)};height:${pct(kh,D.h)};border-radius:${r}"></button>`).join("");
+  $("#hots").querySelectorAll("[data-act]").forEach(b=>b.onclick=()=>ACT[b.dataset.act]());
+  $("#help").innerHTML=D.help.map(([k,t])=>`<p><b>${k}</b>${t}</p>`).join("")+`<div class="vrow" id="voiceRow"><b>Voice</b><button data-g="female" aria-pressed="false">Female</button><button data-g="male" aria-pressed="false">Male</button><span id="voiceName"></span></div>`;
+  $("#voiceRow").querySelectorAll("button").forEach(b=>b.onclick=()=>setVoice(b.dataset.g));renderVoiceRow();
+  document.querySelectorAll("#picker button").forEach(b=>b.setAttribute("aria-pressed",String(b.dataset.dev===key)));
+  device=key;try{localStorage.setItem("brief-device",key)}catch{}
+}
+let device="silver";
+$("#picker").innerHTML=Object.entries(DEVICES).map(([k,D])=>`<button data-dev="${k}" aria-label="${D.name}" aria-pressed="false"><img src="${D.img}" alt=""></button>`).join("");
+$("#picker").querySelectorAll("[data-dev]").forEach(b=>b.onclick=()=>applyDevice(b.dataset.dev));
+$("#bCust").onclick=e=>{const p=$("#picker");p.hidden=!p.hidden;e.currentTarget.setAttribute("aria-expanded",String(!p.hidden))};
+$("#bPrev").onclick=()=>go(-1);$("#bNext").onclick=()=>go(1);
+$("#bInfo").onclick=e=>{const h=$("#help");h.hidden=!h.hidden;e.currentTarget.setAttribute("aria-expanded",String(!h.hidden))};
+document.addEventListener("click",e=>{if(!e.target.closest(".cust")){$("#picker").hidden=true;$("#bCust").setAttribute("aria-expanded","false")}});
+try{device=localStorage.getItem("brief-device")||"silver"}catch{}
+applyDevice(device);
+document.addEventListener("keydown",e=>{if(e.key==="ArrowLeft")go(-1);else if(e.key==="ArrowRight")go(1);else if(e.key===" "&&!e.target.closest("button,a,select,input")){e.preventDefault();ACT.play()}});
+window.addEventListener("pagehide",()=>{try{TTS&&TTS.cancel()}catch{}});
+let sx=null,sy=null;const scr=$("#screen");
+scr.addEventListener("touchstart",e=>{sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
+scr.addEventListener("touchend",e=>{if(sx==null)return;const dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;if(Math.abs(dx)>40&&Math.abs(dx)>Math.abs(dy)*1.3)go(dx<0?1:-1);sx=null},{passive:true});
+let noteText="Connecting to the archive…";
+(async()=>{
+  const bust="?t="+Date.now();
+  try{
+    const r=await fetch("editions/index.json"+bust);if(!r.ok)throw new Error(r.status);
+    const list=(await r.json()).editions||[];
+    if(!list.length){noteText="No edition yet. The first one arrives at 9:00 AM.";draw();return}
+    const docs=await Promise.all(list.slice(0,60).map(async id=>{try{const x=await fetch("editions/"+id+".json"+bust);return x.ok?{id,data:await x.json()}:null}catch{return null}}));
+    editions=docs.filter(Boolean).sort((a,b)=>b.id<a.id?-1:1);
+    if(!editions.length){noteText="Couldn't load today's edition. Try refreshing.";draw();return}
+    current=editions[0].id;idx=0;build();draw();
+  }catch(e){noteText="Couldn't load editions. Try refreshing in a minute.";draw()}
+})();
+</script>
+</body></html>
