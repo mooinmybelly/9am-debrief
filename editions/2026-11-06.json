@@ -1,0 +1,686 @@
+{
+ "covers": "Covers Nov 5, 9:00 AM – Nov 6, 9:00 AM CT",
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-06T14:48:29Z",
+ "overview": [
+  "Democrats are on track for about 256 House seats and at least 54 Senate seats, with Mississippi and Alaska still too close to call.",
+  "Wall Street had its worst day since April 2025 as AI and chip stocks crashed; the Dow fell about 1,830 points and the Nasdaq entered a correction.",
+  "Trump says he will decide 'soon' whether to resume strikes on Iran, while tankers keep getting hit near the Strait of Hormuz.",
+  "Paraguay's president Santiago Peña resigned after a bank collapse froze about 3 million people's accounts."
+ ],
+ "sections": [
+  {
+   "key": "us",
+   "stories": [
+    {
+     "headline": "Democrats head for large majorities in both chambers of Congress",
+     "people": [
+      {
+       "name": "Hakeem Jeffries",
+       "role": "House Democratic leader, running for speaker"
+      },
+      {
+       "name": "Chuck Schumer",
+       "role": "Senate Democratic leader"
+      },
+      {
+       "name": "Richard Hudson",
+       "role": "NRCC chair, lost his seat"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      },
+      {
+       "name": "Democracy Now",
+       "url": "https://www.democracynow.org/2026/11/5/headlines"
+      }
+     ],
+     "spoken": "Democrats are on track for a big win in Congress. CBS News estimates they'll end up with about 256 House seats, up from 214 today. In the Senate, they have at least 54 seats, with Mississippi and Alaska still being counted. Even the head of the Republican House campaign committee, Richard Hudson of North Carolina, lost his seat. Come January, Democrats will control what gets passed and who gets confirmed.",
+     "summary": "CBS News estimates Democrats will win about 256 House seats, up from 214 now, with at least 43 districts flipped to Democrats as of Thursday evening. In the Senate, Democrats have at least 54 seats after upsets in Texas, Kansas and South Carolina, and two races are still unresolved. Losers include NRCC chair Rep. Richard Hudson in North Carolina and Reps. Mike Lawler and Mike Turner.",
+     "whyItMatters": "Starting in January, Democrats will control what bills pass, which nominees get confirmed, and which investigations happen, which sharply limits Trump's agenda for his last two years."
+    },
+    {
+     "headline": "Trump and Vance blame Iran war for losses; Trump points to his veto",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "JD Vance",
+       "role": "Vice President"
+      },
+      {
+       "name": "Ron DeSantis",
+       "role": "Governor of Florida (R)"
+      }
+     ],
+     "sources": [
+      {
+       "name": "ABC7 New York",
+       "url": "https://abc7ny.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      },
+      {
+       "name": "Democracy Now",
+       "url": "https://www.democracynow.org/2026/11/5/headlines"
+      }
+     ],
+     "spoken": "Top Republicans are pointing to the Iran war as the reason they lost. Vice President JD Vance said it plainly: the reason we lost is the war. President Trump said that was largely true because gas prices went up, but he said he would do it again. He also said he can get along with Democrats, but reminded everyone he has the veto. Florida Governor Ron DeSantis called the results close to an extinction-level event for Republicans.",
+     "summary": "Vice President JD Vance wrote that 'the reason we lost is the war' with Iran. Trump called that 'largely true' because the war raised gas prices, but said he would do it again and that Republicans would have won if he were on the ballot. He said he could get along with Democrats unless they are 'destructive,' noting he has the veto.",
+     "whyItMatters": "The White House is openly linking the defeat to the war, which may shape whether Trump restarts strikes and how much he works with a Democratic Congress."
+    },
+    {
+     "headline": "Leadership races begin: Johnson steps aside, Scalise and Jordan face off",
+     "people": [
+      {
+       "name": "Mike Johnson",
+       "role": "House Speaker (R-La.)"
+      },
+      {
+       "name": "Steve Scalise",
+       "role": "Rep. (R-La.), running for minority leader"
+      },
+      {
+       "name": "Jim Jordan",
+       "role": "Rep. (R-Ohio), running for minority leader"
+      },
+      {
+       "name": "Katherine Clark",
+       "role": "Rep. (D-Mass.), running for majority leader"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      },
+      {
+       "name": "ABC7 New York",
+       "url": "https://abc7ny.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/"
+      }
+     ],
+     "spoken": "The race to lead each party in the House has started. Speaker Mike Johnson says he will not run to be the Republican leader in the minority. Steve Scalise and Jim Jordan are now competing for that job. On the Democratic side, Hakeem Jeffries is running for speaker, and Katherine Clark wants to be majority leader, which would make her the first woman in that role. House Democrats vote on their leaders on November 18th.",
+     "summary": "Speaker Mike Johnson told staff he will not run for minority leader, and Reps. Steve Scalise and Jim Jordan are both running for the top GOP job. Hakeem Jeffries formally launched his bid for speaker; House Democrats vote on leaders Nov. 18. Rep. Katherine Clark is running for majority leader, which would make her the first woman in that role.",
+     "whyItMatters": "Who leads each party in the House will decide how the new Congress handles investigations, spending fights and its relationship with the White House."
+    },
+    {
+     "headline": "Hegseth vows to stay as Pentagon chief; reports swirl about Rubio",
+     "people": [
+      {
+       "name": "Pete Hegseth",
+       "role": "Defense Secretary"
+      },
+      {
+       "name": "Marco Rubio",
+       "role": "Secretary of State"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "There are questions about who stays in the Cabinet. Defense Secretary Pete Hegseth put out a video saying he isn't going anywhere, as some in Congress reportedly plan to push for his impeachment next week. President Trump says Hegseth is doing a fantastic job, though sources say he's asked advisers about replacing him. There are also reports that Secretary of State Marco Rubio is thinking about leaving, which the State Department denies.",
+     "summary": "Defense Secretary Pete Hegseth released a video saying he will keep his job, amid a reported impeachment effort expected in Congress next week. Trump said Hegseth is doing a 'fantastic job' and has no plans to replace him, though sources said he asked advisers about it. Bloomberg reported Secretary of State Marco Rubio is weighing leaving; the State Department called that a 'baseless hoax.'",
+     "whyItMatters": "Cabinet shake-ups after a midterm loss could change who runs the Iran war and US foreign policy."
+    },
+    {
+     "headline": "Head of DOJ Civil Rights Division resigns",
+     "people": [
+      {
+       "name": "Harmeet Dhillon",
+       "role": "Outgoing head, DOJ Civil Rights Division"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      },
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      }
+     ],
+     "spoken": "Harmeet Dhillon, who ran the Justice Department's Civil Rights Division, has resigned. She's the first senior official to leave since the midterms. During her time there, about 300 career lawyers were pushed out. Also, a federal judge temporarily blocked the Justice Department from demanding that Washington state set aside ballots from people it suspects aren't citizens.",
+     "summary": "Harmeet Dhillon resigned as head of the Justice Department's Civil Rights Division, the first senior official to leave after the midterms. Her tenure included pushing out roughly 300 career attorneys. Separately, a federal judge temporarily barred the DOJ from demanding that Washington state set aside ballots of suspected noncitizens.",
+     "whyItMatters": "The Civil Rights Division enforces voting rights and anti-discrimination laws, so its leadership shapes how those laws are applied."
+    }
+   ],
+   "title": "United States"
+  },
+  {
+   "key": "local",
+   "stories": [
+    {
+     "headline": "Mississippi Senate race: Democrat Scott Colom leads Sen. Hyde-Smith by about 1,100 votes",
+     "people": [
+      {
+       "name": "Scott Colom",
+       "role": "Democratic Senate candidate, Mississippi"
+      },
+      {
+       "name": "Cindy Hyde-Smith",
+       "role": "Republican US senator, Mississippi"
+      },
+      {
+       "name": "Mike Hurst",
+       "role": "Mississippi GOP chair"
+      }
+     ],
+     "sources": [
+      {
+       "name": "ABC7 New York",
+       "url": "https://abc7ny.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      }
+     ],
+     "spoken": "In Mississippi, the Senate race is razor close. Democrat Scott Colom is ahead of Republican Senator Cindy Hyde-Smith by about 1,100 votes. A few thousand mail ballots are still being counted, and the state doesn't allow recounts. The state Republican chair says the party will accept a Colom win if the law is followed. A Democratic win there would be a huge upset.",
+     "summary": "Democrat Scott Colom had 49% to Republican Sen. Cindy Hyde-Smith's 48.9%, a gap of roughly 1,100 votes. About 3,600 mail ballots and an unknown number of affidavit ballots are still out, counties must certify by Nov. 13, and Mississippi does not allow recounts. The state GOP chair said the party will accept a Colom win if the law is followed.",
+     "whyItMatters": "A Democrat winning a Senate seat in Mississippi would be a major upset in one of the most Republican states, and it would add to the Democrats' Senate majority."
+    },
+    {
+     "headline": "Alaska: Mary Peltola narrowly leads Sen. Dan Sullivan",
+     "people": [
+      {
+       "name": "Mary Peltola",
+       "role": "Democratic Senate candidate, Alaska; former US representative"
+      },
+      {
+       "name": "Dan Sullivan",
+       "role": "Republican US senator, Alaska"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Democracy Now",
+       "url": "https://www.democracynow.org/2026/11/5/headlines"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      }
+     ],
+     "spoken": "Alaska is also too close to call. Democrat Mary Peltola, a former congresswoman, leads Republican Senator Dan Sullivan by 637 votes. President Trump says votes for a candidate he calls Fake Dan Sullivan should count for the senator. A Justice Department lawsuit to stop certification was thrown out, and the department is appealing.",
+     "summary": "Democrat Mary Peltola led Republican Sen. Dan Sullivan by 637 votes in Alaska's ranked-choice count. Trump posted that votes for another candidate he called 'Fake Dan Sullivan' should go to the senator. A Justice Department lawsuit to block certification was dismissed on procedural grounds, and the DOJ has appealed.",
+     "whyItMatters": "Peltola, a former congresswoman, could flip another Republican seat, and the federal lawsuit sets up a fight over how ranked-choice results get certified."
+    },
+    {
+     "headline": "Nithya Raman unseats LA Mayor Karen Bass",
+     "people": [
+      {
+       "name": "Nithya Raman",
+       "role": "Mayor-elect of Los Angeles; city councilmember"
+      },
+      {
+       "name": "Karen Bass",
+       "role": "Outgoing Los Angeles mayor"
+      }
+     ],
+     "sources": [
+      {
+       "name": "ABC7 New York",
+       "url": "https://abc7ny.com/live-updates/midterm-elections-2026-live-updates-election-results-key-races-us/20001292/"
+      },
+      {
+       "name": "CBS Los Angeles",
+       "url": "https://www.cbsnews.com/losangeles/news/los-angeles-mayor-election-bass-raman-pratt-2026/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "Los Angeles has a new mayor. Karen Bass conceded on Thursday to City Councilmember Nithya Raman. Raman is an urban planner and a democratic socialist who was once a Bass ally. She now joins New York's Zohran Mamdani as a democratic socialist running one of the country's biggest cities.",
+     "summary": "Los Angeles Mayor Karen Bass conceded to City Councilmember Nithya Raman on Thursday, saying 'the people of Los Angeles have spoken.' Raman, an urban planner and democratic socialist, has served on the council since 2020 and was once a Bass ally. She had narrowly beaten Republican Spencer Pratt for a runoff spot in June.",
+     "whyItMatters": "Raman joins New York Mayor Zohran Mamdani as a democratic socialist leading one of the biggest US cities, a sign of the left's growing strength in city politics."
+    },
+    {
+     "headline": "Texas: Talarico beats Paxton, ending GOP statewide streak",
+     "people": [
+      {
+       "name": "James Talarico",
+       "role": "US senator-elect, Texas; state representative from Austin"
+      },
+      {
+       "name": "Ken Paxton",
+       "role": "Texas attorney general, Republican Senate nominee"
+      },
+      {
+       "name": "Gina Hinojosa",
+       "role": "Texas governor-elect (D)"
+      }
+     ],
+     "sources": [
+      {
+       "name": "KPRC Click2Houston",
+       "url": "https://www.click2houston.com/decision-2026/2026/11/04/ken-paxton-concedes-texas-us-senate-race-to-james-talarico/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "Texas had a political earthquake. Democrat James Talarico, a state representative from Austin, beat Attorney General Ken Paxton by about 12 points. He's the first Democrat Texas has sent to the Senate since 1988. Democrats also won the governor's race with Gina Hinojosa, plus lieutenant governor and attorney general.",
+     "summary": "Democratic state Rep. James Talarico of Austin beat Attorney General Ken Paxton 55% to 43%, a gap of about 1.2 million votes. He is the first Democrat elected to the US Senate from Texas since 1988. Democrats also won the governor's race, with Gina Hinojosa, plus lieutenant governor and attorney general.",
+     "whyItMatters": "Texas had not elected a Democrat statewide in decades, so the sweep reshapes the state's politics and the national map heading into 2028."
+    },
+    {
+     "headline": "Missouri: Wellman ousts Rep. Ann Wagner; voters reject abortion ban",
+     "people": [
+      {
+       "name": "Fred Wellman",
+       "role": "US representative-elect, Missouri 2nd District (D)"
+      },
+      {
+       "name": "Ann Wagner",
+       "role": "Outgoing Republican US representative, Missouri"
+      },
+      {
+       "name": "Keri Ingle",
+       "role": "Missouri state senator-elect (D-Lee's Summit)"
+      },
+      {
+       "name": "Jake Zimmerman",
+       "role": "St. Louis County executive-elect"
+      }
+     ],
+     "sources": [
+      {
+       "name": "St. Louis Public Radio",
+       "url": "https://www.stlpr.org/government-politics-issues/2026-11-03/missouri-election-results-amendment-3-st-louis-st-charles-jefferson-counties"
+      }
+     ],
+     "spoken": "Closer to home in Missouri, Democrat Fred Wellman beat Republican Congresswoman Ann Wagner in the St. Louis suburbs. He's the first Democrat to hold that seat since the early 1990s. Voters also rejected Amendment 3, which would have banned abortion again. And Democrats picked up two state Senate seats, while Jake Zimmerman won the St. Louis County executive race.",
+     "summary": "Democrat Fred Wellman defeated seven-term Republican Rep. Ann Wagner in the St. Louis-area 2nd District, the first Democrat to hold the seat since the early 1990s. Missouri voters rejected Amendment 3, which would have again banned abortion, and Democrats flipped two GOP-held state Senate seats with Keri Ingle and Betsy Fogle. Jake Zimmerman was elected St. Louis County executive.",
+     "whyItMatters": "The results show Democratic gains even in a red state, including in the St. Louis suburbs, and keep abortion rights in Missouri's constitution."
+    }
+   ],
+   "title": "States & Local"
+  },
+  {
+   "key": "world",
+   "stories": [
+    {
+     "headline": "Trump to decide 'soon' on resuming Iran strikes as tankers are hit near Hormuz",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "US President"
+      },
+      {
+       "name": "Mojtaba Khamenei",
+       "role": "Supreme Leader of Iran"
+      },
+      {
+       "name": "Mohammad Bagher Ghalibaf",
+       "role": "Iran's chief negotiator"
+      },
+      {
+       "name": "Mohsen Rezaei",
+       "role": "Secretary, Iran's Supreme National Security Council"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      },
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      }
+     ],
+     "spoken": "President Trump says he'll decide soon whether to restart strikes on Iran, now that the election is over. Iran sent a new nuclear proposal through Qatar, but says it won't talk until the US meets its demands about the Strait of Hormuz. Meanwhile, Iran's Revolutionary Guards say two more oil tankers hit mines near the strait. What happens next matters for oil prices around the world.",
+     "summary": "Trump met his national security team and said he will decide soon whether to resume military action against Iran, now that the midterms are over. Iran sent a nuclear proposal through Qatar but says it will only discuss it after the US meets its demands to reopen the Strait of Hormuz. Iran's Revolutionary Guards said two more oil tankers hit mines near the strait on Friday.",
+     "whyItMatters": "Renewed war would push up oil and fuel prices worldwide and raise the risk for Gulf states and shipping; a deal could reopen a key energy route."
+    },
+    {
+     "headline": "Israel: Opposition backs Gadi Eisenkot to replace Netanyahu",
+     "people": [
+      {
+       "name": "Gadi Eisenkot",
+       "role": "Yashar party leader, former Israeli military chief"
+      },
+      {
+       "name": "Benjamin Netanyahu",
+       "role": "Prime Minister of Israel"
+      },
+      {
+       "name": "Isaac Herzog",
+       "role": "President of Israel"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu"
+      }
+     ],
+     "spoken": "In Israel, Prime Minister Benjamin Netanyahu could be on his way out. Parties with 67 of the 120 seats in parliament recommended Gadi Eisenkot, a former army chief, to form the next government. Netanyahu's backers have 46 seats. President Isaac Herzog will announce his pick on Sunday, and he says it's still uncertain.",
+     "summary": "Parties holding 67 of the Knesset's 120 seats recommended Yashar leader Gadi Eisenkot, a former army chief, to form the next government, while parties with 46 seats backed Prime Minister Benjamin Netanyahu. President Isaac Herzog will name his choice on Sunday and said the outcome is still uncertain. Eisenkot's backers include Naftali Bennett, Avigdor Liberman, Yair Lapid and Yair Golan.",
+     "whyItMatters": "A new prime minister would be the biggest change in Israeli leadership in years and could shift policy on Gaza, Iran and relations with the US and Arab states."
+    },
+    {
+     "headline": "Paraguay's president resigns after bank collapse freezes millions of accounts",
+     "people": [
+      {
+       "name": "Santiago Peña",
+       "role": "Outgoing President of Paraguay"
+      },
+      {
+       "name": "Pedro Alliana",
+       "role": "Vice President, set to become president"
+      },
+      {
+       "name": "Horacio Cartes",
+       "role": "Colorado Party leader"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a"
+      },
+      {
+       "name": "ABC News (AP)",
+       "url": "https://abcnews.com/US/wireStory/paraguay-president-santiago-pea-resigns-bank-collapse-137881803"
+      }
+     ],
+     "spoken": "Paraguay's president, Santiago Peña, resigned on Thursday. A big digital bank called Ueno collapsed earlier this week, and about 3 million people lost access to their accounts, including some state pension money. Lawmakers voted unanimously to impeach him over his past ties to the bank. Vice President Pedro Alliana is set to take over.",
+     "summary": "President Santiago Peña resigned Thursday as the lower house voted unanimously to impeach him over a conflict of interest tied to Ueno Bank. The central bank seized the digital lender on Nov. 3, leaving about 3 million customers without access to their money, including state pension funds. Vice President Pedro Alliana is set to take over.",
+     "whyItMatters": "The collapse hits most of Paraguay's adults and public funds, and it removes a close Trump ally in South America."
+    },
+    {
+     "headline": "Ukraine diplomacy shifts after US midterms",
+     "people": [
+      {
+       "name": "Volodymyr Zelenskyy",
+       "role": "President of Ukraine"
+      },
+      {
+       "name": "Kirill Dmitriev",
+       "role": "Russian presidential envoy"
+      },
+      {
+       "name": "Dmitry Peskov",
+       "role": "Kremlin spokesman"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      },
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      }
+     ],
+     "spoken": "On Ukraine, President Trump says he met a top Russian envoy, Kirill Dmitriev, at the White House and promised a peace deal that might involve all of Europe. Ukraine's President Volodymyr Zelenskyy says his country has to adapt to the new politics in Washington to get more air defenses. And the European Union sent Ukraine another 4.36 billion euros in loans.",
+     "summary": "Trump said he met Russian envoy Kirill Dmitriev at a White House event and promised a Ukraine peace deal that 'might involve all of Europe.' President Zelenskyy said Ukraine must adapt to new US political realities to get more aid and air defenses. The EU paid Ukraine €4.36 billion from its €90 billion support loan.",
+     "whyItMatters": "A Democratic Congress could change US aid to Ukraine, while Europe is under pressure to fund Kyiv and decide its role in peace talks."
+    },
+    {
+     "headline": "WHO approves trials of two new Ebola vaccines as Congo outbreak passes 5,300 deaths",
+     "people": [
+      {
+       "name": "Meg Doherty",
+       "role": "WHO director"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Democracy Now",
+       "url": "https://www.democracynow.org/2026/11/5/headlines"
+      }
+     ],
+     "spoken": "The World Health Organization approved trials of two new Ebola vaccines. The outbreak, mostly in the Democratic Republic of Congo, has killed more than 5,300 people since May. It's the country's largest Ebola outbreak on record, and it kills about half of the people it infects. Early trial results could come in early 2027.",
+     "summary": "The World Health Organization approved trials of two new Ebola vaccines. The outbreak, mostly in the Democratic Republic of Congo, has killed more than 5,300 people since May, making it the country's largest on record. It kills about half of those infected, and early trial results are hoped for in early 2027.",
+     "whyItMatters": "This is one of the deadliest Ebola outbreaks ever, and new vaccines could be key to stopping it from spreading further in Central Africa."
+    },
+    {
+     "headline": "Indonesia: Senior police officers named suspects in wiretapping of Prabowo",
+     "people": [
+      {
+       "name": "Prabowo Subianto",
+       "role": "President of Indonesia"
+      },
+      {
+       "name": "Asep Safrudin",
+       "role": "Head of Indonesia's criminal investigation agency"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Katadata",
+       "url": "https://katadata.co.id/berita/nasional/6ae9ee1cf387c/polri-ungkap-target-penyadapan-lsp-presiden-pengusaha-hingga-tokoh-politik"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/"
+      }
+     ],
+     "spoken": "In Indonesia, a major spying scandal is growing. Police say senior officers illegally tapped President Prabowo Subianto's phone. They say other targets included officials, politicians, journalists and business leaders. A fourth senior officer has now been named a suspect.",
+     "summary": "Indonesian police named three senior officers, including a senior official identified only by the initials LSP, as suspects in the illegal wiretapping of President Prabowo Subianto. Police say targets also included officials, politicians, media, NGO leaders and business figures. A fourth senior officer, reportedly Slamet Uliandi, has now been named a suspect.",
+     "whyItMatters": "The case exposes a power struggle inside Indonesia's security forces and raises concerns about surveillance of journalists and civil society."
+    },
+    {
+     "headline": "South Africa's ANC faces losses in local elections",
+     "people": [
+      {
+       "name": "Cyril Ramaphosa",
+       "role": "President of South Africa, ANC leader"
+      },
+      {
+       "name": "Helen Zille",
+       "role": "DA candidate for Johannesburg mayor"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Star (Reuters)",
+       "url": "https://www.thestar.com.my/news/world/2026/11/04/south-africa-votes-in-local-polls-expected-to-further-weaken-anc-grip"
+      },
+      {
+       "name": "Democracy Now",
+       "url": "https://www.democracynow.org/2026/11/5/headlines"
+      }
+     ],
+     "spoken": "In South Africa, early results from local elections look tough for the ruling African National Congress. With about a quarter of ballots counted, it had around 32 percent. Voters are frustrated with water and power cuts, crime and joblessness. Full results come Sunday, and they could shape who leads the party after President Cyril Ramaphosa.",
+     "summary": "South Africans voted Nov. 4 in elections for all 257 municipalities. With 28% of ballots counted, the ANC had about 32%, and polls suggested it could fall below 40%. Voters cited water and power outages, jobs, crime and housing; full results are expected Sunday.",
+     "whyItMatters": "A weaker ANC means more unstable city coalitions, and the result could shape the race to succeed President Cyril Ramaphosa as party leader in 2027."
+    },
+    {
+     "headline": "Turkey ratifies 'Mecca' defense pact with Saudi Arabia and Pakistan",
+     "people": [
+      {
+       "name": "Recep Tayyip Erdogan",
+       "role": "President of Turkey"
+      },
+      {
+       "name": "Mohammed bin Salman",
+       "role": "Crown Prince of Saudi Arabia"
+      },
+      {
+       "name": "Shehbaz Sharif",
+       "role": "Prime Minister of Pakistan"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      },
+      {
+       "name": "AP via News4JAX",
+       "url": "https://www.news4jax.com/business/2026/10/21/how-the-mecca-defense-agreement-between-turkey-pakistan-and-saudi-arabia-will-work/"
+      }
+     ],
+     "spoken": "Turkey's parliament approved a defense pact with Saudi Arabia and Pakistan. It works a lot like NATO: an attack on one country is treated as an attack on all three. It also covers joint training, weapons production and intelligence sharing. It's a new security bloc in a region where the US role is changing.",
+     "summary": "Turkey's parliament ratified the Mecca Agreement on Joint Defense with Saudi Arabia and Pakistan by 279 votes to 119. Like NATO's Article 5, the pact treats an attack on one country as an attack on all three, and it covers joint training, weapons production and intelligence sharing. It was signed in August by Erdogan, Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif.",
+     "whyItMatters": "The pact links NATO's second-largest army with a nuclear-armed Pakistan and Saudi Arabia, a new regional security bloc as US involvement in the region shifts."
+    }
+   ],
+   "title": "World"
+  },
+  {
+   "key": "econ",
+   "stories": [
+    {
+     "headline": "Stocks have worst day since April 2025 as AI and chip shares crash",
+     "people": [
+      {
+       "name": "Lisa Su",
+       "role": "AMD CEO"
+      },
+      {
+       "name": "Charlie McElligott",
+       "role": "Strategist, Nomura"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Fox Business",
+       "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+      }
+     ],
+     "spoken": "Thursday was a rough day on Wall Street. The Dow fell about 1,830 points, the S&P 500 lost more than 4 percent, and the Nasdaq dropped about 5 and a half percent. Chip stocks led the fall, with Nvidia down about 9 percent. Investors worry a Democratic Congress could slow down the building of AI data centers. Some analysts say it was mainly big funds cashing in their gains.",
+     "summary": "The Dow fell 1,833 points, or 3.44%, to 51,523, the S&P 500 lost 4.36%, and the Nasdaq dropped 5.52% into correction territory. The chip index fell more than 12%, with Nvidia down about 9% and AMD about 15%; Tesla and SpaceX also fell around 9-11%. Investors worried a Democratic Congress could slow AI data center growth, and some analysts called it hedge funds locking in gains.",
+     "whyItMatters": "AI stocks have driven much of the market's rise, so a sharp reversal hits retirement accounts and could spread to the wider economy."
+    },
+    {
+     "headline": "US added 165,000 jobs in October, far more than expected",
+     "people": [],
+     "sources": [
+      {
+       "name": "The Tribune (ANI)",
+       "url": "https://www.tribuneindia.com/news/business/us-nonfarm-payrolls-rise-by-165000-in-october-over-three-times-12-month-average"
+      }
+     ],
+     "spoken": "This morning's jobs report was strong. Employers added 165,000 jobs in October, more than three times the recent monthly average. The unemployment rate stayed at 4.1 percent. Pay rose 3.1 percent compared with a year ago. It's a sign the job market is holding up.",
+     "summary": "Employers added 165,000 jobs in October, more than three times the 48,000 monthly average of the past year, and the unemployment rate held at 4.1%. Gains were led by professional and business services, health care and transportation. Average hourly pay rose 0.4% for the month and 3.1% over the year, and August and September were revised up by 84,000 jobs combined.",
+     "whyItMatters": "A stronger job market eases fears of a slowdown after Thursday's market sell-off."
+    },
+    {
+     "headline": "Bank of England raises rates for the first time since 2023",
+     "people": [
+      {
+       "name": "Andrew Bailey",
+       "role": "Governor, Bank of England"
+      },
+      {
+       "name": "Catherine Mann",
+       "role": "Bank of England policymaker, voted for a bigger hike"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Sovereign Magazine",
+       "url": "https://www.sovereignmagazine.com/article/bank-of-england-rate-rise-november-2026-mortgage"
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+      }
+     ],
+     "spoken": "The Bank of England raised interest rates for the first time since 2023, from 3.75 to 4 percent. Inflation in Britain is up to 3.5 percent, partly because of fuel prices from the Middle East war. Governor Andrew Bailey said this isn't necessarily the first of many hikes, but the outlook depends on the conflict.",
+     "summary": "The Bank of England raised its key rate from 3.75% to 4%, its first increase since August 2023, in an 8-1 vote. UK inflation rose to 3.5% in September, driven partly by fuel prices. Governor Andrew Bailey linked the outlook to the Middle East conflict and said the hike was not necessarily the first of many.",
+     "whyItMatters": "It shows how the Iran war's energy shock is pushing central banks to fight inflation again, which raises borrowing costs."
+    },
+    {
+     "headline": "Oil rebounds near $97 as doubts grow over an Iran deal",
+     "people": [
+      {
+       "name": "Ursula von der Leyen",
+       "role": "President, European Commission"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+      },
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      }
+     ],
+     "spoken": "Oil prices bounced back a bit. Brent crude, the global benchmark, dropped under 100 dollars a barrel after the election, then rose to about 97 dollars on Thursday. Traders are doubtful about a deal with Iran, and tankers are still being attacked near the Strait of Hormuz. Europe says it's working with the International Energy Agency on releasing emergency oil stocks.",
+     "summary": "Brent crude fell below $100 a barrel after the midterms for the first time since September, then rose about 2.2% Thursday to around $96.70 as doubts grew about a US-Iran deal. Attacks on tankers near the Strait of Hormuz continued. EU Commission President Ursula von der Leyen said she coordinated with the International Energy Agency on G7 releases of oil stocks.",
+     "whyItMatters": "Oil prices drive gas prices and inflation, and they were a big factor in the midterm results."
+    },
+    {
+     "headline": "Democratic Senate likely blocks Trump's plan to reshape the Fed",
+     "people": [
+      {
+       "name": "Jonathan Pingle",
+       "role": "Economist, UBS"
+      },
+      {
+       "name": "Brian Gardner",
+       "role": "Policy strategist, Stifel"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+      },
+      {
+       "name": "Fox Business",
+       "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"
+      }
+     ],
+     "spoken": "The new Senate could also change the Federal Reserve picture. An economist at UBS says a Democratic Senate blocks President Trump's effort to reshape the Fed, because the Senate has to approve new governors. Analysts also say a major crypto bill is unlikely to move this year.",
+     "summary": "UBS economist Jonathan Pingle said Democratic control of the Senate blocks Trump's effort to reshape the Federal Reserve, since the Senate must approve new governors. Stifel's Brian Gardner said the crypto 'Clarity Act' is unlikely to advance this year. Investors are also weighing how a Democratic Congress could affect AI regulation.",
+     "whyItMatters": "Fed independence affects interest rates for everyone, and a split government will slow or stop many business-friendly bills."
+    }
+   ],
+   "title": "Economy & Markets"
+  }
+ ],
+ "spoken": {
+  "intro": "Good morning, Alexa! It's Friday, November 6th, and here's your 9AM Brief. Democrats are heading toward big majorities in both the House and the Senate, with two Senate races still being counted. Stocks had their worst day in over a year as tech shares tumbled. And President Trump says a decision on whether to restart strikes on Iran is coming soon.",
+  "outro": "That's your brief for today, Alexa. Have a great Friday, and enjoy the weekend!"
+ }
+}
