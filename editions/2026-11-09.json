@@ -1,0 +1,729 @@
+{
+ "covers": "Covers Nov 8, 9:00 AM – Nov 9, 9:00 AM CT",
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T14:58:06Z",
+ "overview": [
+  "The House may vote this week to impeach Defense Secretary Pete Hegseth over the Iran war, as Congress returns facing a Dec. 11 shutdown deadline and GOP leadership votes Tuesday.",
+  "Trump told 60 Minutes his deportation policy \"might be too tough\" and he'd like an immigration deal, and he meets Qatar's prime minister today on stalled Iran talks.",
+  "Russia and Ukraine traded heavy strikes before US-brokered talks open Tuesday in Abu Dhabi, and the COP31 climate summit opened in Turkey.",
+  "Nvidia shares fell about 5% as its board probes CEO Jensen Huang's ties to a suspected Chinese spy; October inflation data comes out Tuesday."
+ ],
+ "sections": [
+  {
+   "key": "us",
+   "stories": [
+    {
+     "headline": "House expected to vote this week on impeaching Defense Secretary Hegseth",
+     "people": [
+      {
+       "name": "Pete Hegseth",
+       "role": "Defense Secretary"
+      },
+      {
+       "name": "Thomas Massie",
+       "role": "Outgoing Republican congressman, Kentucky"
+      },
+      {
+       "name": "Hakeem Jeffries",
+       "role": "House Democratic leader"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Israel Hayom",
+       "url": "https://www.israelhayom.com/2026/11/08/hegseth-faces-impeachment-vote-as-republicans-turn-on-him-after-election-defeat/"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-results-and-latest-updates-house-could-vote-to-impeach-hegseth-this-week-mississippi-and-alaska-senate-races-still-too-close-to-call-134833800.html"
+      },
+      {
+       "name": "Spectrum News",
+       "url": "https://spectrumlocalnews.com/tx/austin/politics/2026/11/09/lame-duck-congress-shutdown-deadline"
+      }
+     ],
+     "spoken": "The House could vote this week on impeaching Defense Secretary Pete Hegseth. The push comes from Thomas Massie, a Republican from Kentucky who is leaving Congress. He says Hegseth defied Congress by keeping the Iran war going. Democratic leader Hakeem Jeffries says he's a hard yes, and some Republicans are expected to join. Even if it passes, the Senate would need a two-thirds vote to remove him, so he likely stays. But it would be a big rebuke of the war.",
+     "summary": "Outgoing Republican Rep. Thomas Massie plans to force a House vote this week on impeaching Defense Secretary Pete Hegseth, accusing him of defying Congress and illegally continuing the Iran war. House Democratic leader Hakeem Jeffries says he is a \"hard yes,\" and GOP sources expect enough Republicans to join for it to pass. Hegseth dismissed the effort in a video, and Trump said he still has confidence in him.",
+     "whyItMatters": "Impeachment needs only a simple House majority, but removal needs two-thirds of the Senate, so Hegseth is unlikely to lose his job this way. A House vote would still be a sharp rebuke of the Iran war, which many Republicans blame for their midterm losses."
+    },
+    {
+     "headline": "Trump says his deportation policy \"might be too tough\" and he'd like an immigration deal",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "Ross Douthat",
+       "role": "Interviewer, CBS 60 Minutes"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News (transcript)",
+       "url": "https://www.cbsnews.com/news/read-the-full-transcript-of-ross-douthats-interview-with-president-trump/"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-results-and-latest-updates-house-could-vote-to-impeach-hegseth-this-week-mississippi-and-alaska-senate-races-still-too-close-to-call-134833800.html"
+      }
+     ],
+     "spoken": "President Trump sat down with 60 Minutes on Sunday night. He said his deportation policy might be too tough, and that it hurt to see people with good jobs removed. He said he'd love to make an immigration deal with Democrats, and that some have already called him. He also defended the Iran war and said he still backs Hegseth. It's a notable shift in tone on his biggest issue, right after a bad midterm for his party.",
+     "summary": "In a 60 Minutes interview with Ross Douthat that aired Sunday, Trump said his immigration crackdown \"might be too tough\" and that deporting people with good jobs hurt him. He said he would \"love to do something on immigration\" with Democrats and that some have already called him. He stood by the Iran war, said he has confidence in Hegseth, and said of the midterms that he \"was not on the ballot.\"",
+     "whyItMatters": "It is a rare softening on Trump's signature issue right after Democrats won both chambers. It also comes days after he named Stephen Miller, the main architect of the crackdown, as his chief of staff."
+    },
+    {
+     "headline": "House Republicans pick new leaders Tuesday: Scalise vs. Jordan",
+     "people": [
+      {
+       "name": "Steve Scalise",
+       "role": "House Majority Leader, running for minority leader"
+      },
+      {
+       "name": "Jim Jordan",
+       "role": "House Judiciary Committee chair, running for minority leader"
+      },
+      {
+       "name": "Mike Johnson",
+       "role": "House Speaker, not running"
+      },
+      {
+       "name": "Andy Harris",
+       "role": "House Freedom Caucus chair"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Hill via AOL",
+       "url": "https://www.aol.com/articles/week-hill-congress-returns-leadership-220000000.html"
+      },
+      {
+       "name": "Fox News",
+       "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+      }
+     ],
+     "spoken": "House Republicans choose their new leaders on Tuesday. Speaker Mike Johnson isn't running after the party lost the House. So it's Steve Scalise, the current majority leader, against Jim Jordan, who chairs the Judiciary Committee. The hard-right Freedom Caucus is backing Jordan. Whoever wins will lead Republicans against a Democratic House for the next two years.",
+     "summary": "House Republicans hold leadership elections on Tuesday, Nov. 10, after losing the majority. Speaker Mike Johnson is not running, so Majority Leader Steve Scalise and Judiciary Chair Jim Jordan are competing to be minority leader; Freedom Caucus chair Andy Harris backs Jordan. There are also contests for whip, where Tom Emmer faces August Pfluger, and for conference chair, where Lisa McClain faces Greg Steube and Erin Houchin.",
+     "whyItMatters": "The winner will lead the Republican opposition to a Democratic House for Trump's last two years. A Jordan win would push the party further toward its hard-right wing; Scalise is the more establishment choice."
+    },
+    {
+     "headline": "Some GOP senators push to delay Tuesday's Senate leadership vote",
+     "people": [
+      {
+       "name": "John Thune",
+       "role": "Senate Majority Leader, seeking minority leader post"
+      },
+      {
+       "name": "Dave McCormick",
+       "role": "Republican senator, Pennsylvania"
+      },
+      {
+       "name": "Ron Johnson",
+       "role": "Republican senator, Wisconsin"
+      },
+      {
+       "name": "Rick Scott",
+       "role": "Republican senator, Florida"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Townhall",
+       "url": "https://townhall.com/news/mattvespa/2026/11/09/john-thunes-push-to-lead-senate-republicans-again-is-getting-bogged-down-n2686116"
+      },
+      {
+       "name": "Fox News",
+       "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+      }
+     ],
+     "spoken": "In the Senate, some Republicans want to slow down. They're asking to delay Tuesday's leadership vote. Senators Dave McCormick of Pennsylvania and Ron Johnson of Wisconsin are among them. Their leader, John Thune, is running unopposed to lead the party in the minority. The vote is still expected to happen, but the push shows the party is unsettled after its losses.",
+     "summary": "Several Republican senators want to postpone Tuesday's Senate GOP leadership elections after the midterm losses. Sen. Dave McCormick of Pennsylvania joined the call, and Sen. Ron Johnson of Wisconsin circulated a letter that Sens. Rick Scott, Mike Lee and John Kennedy reportedly signed. John Thune, the current majority leader, is running unopposed to be minority leader, and a person familiar said the vote is still set to go ahead.",
+     "whyItMatters": "No one has challenged Thune, but the delay push shows unrest in the Senate GOP over how the party lost and how it should fight a Democratic Senate."
+    },
+    {
+     "headline": "Trump says he expects to meet Xi and Putin at APEC summit in China",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "Xi Jinping",
+       "role": "President of China"
+      },
+      {
+       "name": "Vladimir Putin",
+       "role": "President of Russia"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Reuters via ThePrint",
+       "url": "https://theprint.in/world/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit/3093826/"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+      }
+     ],
+     "spoken": "President Trump says he expects to meet both Xi Jinping of China and Vladimir Putin of Russia next week. That would happen at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, on November 18 and 19. He says they'd talk about ending the Iran war and nuclear weapons. A three-way meeting like that would be very unusual.",
+     "summary": "Trump told reporters Sunday he thinks he will meet Chinese President Xi Jinping and Russian President Vladimir Putin at the APEC leaders' summit in Shenzhen, China, on Nov. 18-19. He said the talks would cover ending the Iran war and denuclearization. In his 60 Minutes interview he also said he believes the US is \"very close\" to a Russia-Ukraine deal.",
+     "whyItMatters": "A three-way meeting among the US, Chinese and Russian leaders would be rare. It would put the Iran war, Ukraine and nuclear arms control on one table at a time when Trump is weakened at home."
+    }
+   ],
+   "title": "United States"
+  },
+  {
+   "key": "local",
+   "stories": [
+    {
+     "headline": "Mississippi Senate ballots due Tuesday as Colom holds narrow lead; Alaska still counting",
+     "people": [
+      {
+       "name": "Scott Colom",
+       "role": "Democratic Senate candidate and district attorney, Mississippi"
+      },
+      {
+       "name": "Cindy Hyde-Smith",
+       "role": "Republican senator, Mississippi"
+      },
+      {
+       "name": "Mary Peltola",
+       "role": "Democratic Senate candidate and former congresswoman, Alaska"
+      },
+      {
+       "name": "Dan Sullivan",
+       "role": "Republican senator, Alaska"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-results-and-latest-updates-house-could-vote-to-impeach-hegseth-this-week-mississippi-and-alaska-senate-races-still-too-close-to-call-134833800.html"
+      },
+      {
+       "name": "Democracy Docket",
+       "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/"
+      }
+     ],
+     "spoken": "Two Senate races are still open. In Mississippi, Democrat Scott Colom, a local prosecutor, leads Senator Cindy Hyde-Smith by about 2,500 votes. The last mail ballots are due Tuesday, and Republicans are already preparing to challenge some provisional ballots. In Alaska, Democrat Mary Peltola was ahead of Senator Dan Sullivan by about 600 votes, with ranked-choice counting set for November 18. Wins in both would be a big surprise in two very red states.",
+     "summary": "In Mississippi, Democrat Scott Colom, a district attorney, leads Republican Sen. Cindy Hyde-Smith by about 2,500 votes with 97% counted. Mail ballots must arrive and voters must cure ballots by Tuesday, Nov. 10, and counties certify by Nov. 13; the state GOP has demanded that provisional ballots be set aside, a likely step toward challenging them. In Alaska, Democrat Mary Peltola led Sen. Dan Sullivan by 637 votes with 74% counted; ranked-choice tabulation starts Nov. 18 if no one tops 50%.",
+     "whyItMatters": "Democrats already hold 54 Senate seats. Wins in deep-red Mississippi and Alaska would give them 56 and make Colom and Peltola two of the most talked-about new senators."
+    },
+    {
+     "headline": "Laubacher's lead over Boebert holds at about 3,200 votes in Colorado",
+     "people": [
+      {
+       "name": "Eileen Laubacher",
+       "role": "Democratic House candidate, Colorado's 4th District"
+      },
+      {
+       "name": "Lauren Boebert",
+       "role": "Republican congresswoman, Colorado"
+      },
+      {
+       "name": "Scott Gessler",
+       "role": "Boebert campaign lawyer, former Colorado secretary of state"
+      }
+     ],
+     "sources": [
+      {
+       "name": "American Muckrakers",
+       "url": "https://www.americanmuckrakers.com/p/co-4-sunday-update-still-3237-still"
+      },
+      {
+       "name": "CBS Colorado",
+       "url": "https://www.cbsnews.com/colorado/news/republican-boebert-still-short-of-democrat-laubacher-in-colorado-district-4-race-ballots-still-being-counted/"
+      }
+     ],
+     "spoken": "In Colorado, Democrat Eileen Laubacher is still ahead of Congresswoman Lauren Boebert. Her lead is about 3,200 votes, with roughly 11,000 ballots left to count. That's too big for an automatic recount. Boebert's lawyer says they're looking at unusual voting patterns but hasn't filed anything. This district was supposed to be safe for Republicans, so a Laubacher win would be a major upset.",
+     "summary": "Democrat Eileen Laubacher still leads Republican Rep. Lauren Boebert by 3,237 votes in Colorado's 4th District as of Sunday, with about 11,000 ballots left, mostly in Douglas, Larimer and Arapahoe counties. That margin is above Colorado's automatic recount threshold. Boebert's lawyer, Scott Gessler, says the campaign is looking into \"very unusual voting patterns\" but has not filed anything; cure and provisional ballots are due Nov. 12.",
+     "whyItMatters": "The 4th District was seen as a safe Republican seat. Laubacher drew support from Republicans and independents, and beating Boebert, one of Trump's best-known House allies, would be one of the night's biggest upsets."
+    },
+    {
+     "headline": "Texas Gov.-elect Hinojosa opens job portal as some Republicans push to curb her powers",
+     "people": [
+      {
+       "name": "Gina Hinojosa",
+       "role": "Democratic governor-elect, Texas"
+      },
+      {
+       "name": "Greg Abbott",
+       "role": "Outgoing Republican governor, Texas"
+      },
+      {
+       "name": "Brian Harrison",
+       "role": "Republican state representative, Texas"
+      }
+     ],
+     "sources": [
+      {
+       "name": "FOX 7 Austin",
+       "url": "https://www.fox7austin.com/news/texas-governor-elect-gina-hinojosa-unveils-official-portal-administration-job-applications"
+      },
+      {
+       "name": "Houston Chronicle via Yahoo",
+       "url": "https://www.yahoo.com/news/politics/articles/texas-republicans-want-curb-hinojosas-212744291.html"
+      },
+      {
+       "name": "The Washington Sun",
+       "url": "https://www.washingtonsun.com/national/republicans-limit-curb-power-democratic-governors-gina-hinojosa-amy-acton-keisha-lance-bottoms"
+      }
+     ],
+     "spoken": "In Texas, Governor-elect Gina Hinojosa is building her team. Her transition opened a website where people can apply for jobs in her administration. At the same time, a Republican lawmaker, Brian Harrison, wants Governor Greg Abbott to call a special session to limit the governor's emergency powers before she starts. Abbott hasn't said what he'll do.",
+     "summary": "Texas Governor-elect Gina Hinojosa, a Democrat, launched a transition website and job portal over the weekend for people who want to work in her administration. Her bipartisan transition team is led by co-chairs Ernest Bailes and Ryan Pollock. Meanwhile, Republican state Rep. Brian Harrison is urging outgoing Gov. Greg Abbott to call a special session to limit the governor's emergency powers before she takes office; Abbott has not publicly responded.",
+     "whyItMatters": "Hinojosa's win was historic for Texas Democrats, and how Republicans in the legislature treat her will shape what she can do. Former House Speaker Dade Phelan has said such a session would be unlikely to succeed because Democrats could break quorum."
+    },
+    {
+     "headline": "Iowa House speaker rules out special session to limit Gov.-elect Rob Sand",
+     "people": [
+      {
+       "name": "Rob Sand",
+       "role": "Democratic governor-elect, Iowa"
+      },
+      {
+       "name": "Pat Grassley",
+       "role": "Republican Iowa House speaker"
+      },
+      {
+       "name": "Kim Reynolds",
+       "role": "Outgoing Republican governor, Iowa"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Iowa Capital Dispatch via KWQC",
+       "url": "https://www.kwqc.com/2026/11/08/iowa-house-speaker-says-no-special-session-before-new-governor-takes-office/"
+      },
+      {
+       "name": "The Washington Sun",
+       "url": "https://www.washingtonsun.com/national/republicans-limit-curb-power-democratic-governors-gina-hinojosa-amy-acton-keisha-lance-bottoms"
+      }
+     ],
+     "spoken": "In Iowa, the Republican House speaker, Pat Grassley, says there won't be a special session to limit the new governor. That's Democrat Rob Sand, who takes office in January. Some Democrats feared Republicans would try to cut his powers first. Sand points out that 21 House Republicans come from districts that voted for him. Republican governors in Ohio and Georgia have also said no to curbing their successors.",
+     "summary": "Iowa House Speaker Pat Grassley said a special session before Democrat Rob Sand takes office as governor in January is \"not on the table.\" Some Democrats had worried Republicans would use one to limit the new governor's powers, as lawmakers in Michigan, Wisconsin and North Carolina have done in the past. Sand noted that 21 of the 55 House Republicans next year represent districts that also voted for him.",
+     "whyItMatters": "Sand is one of several new Democratic governors in states Republicans long controlled. Ohio Gov. Mike DeWine and Georgia Gov. Brian Kemp have also refused to curb their Democratic successors, while the push continues in Texas."
+    },
+    {
+     "headline": "Kansas governor's race: biggest county starts hand-count audit today",
+     "people": [
+      {
+       "name": "Cindy Holscher",
+       "role": "Democratic state senator and candidate for governor, Kansas"
+      },
+      {
+       "name": "Ty Masterson",
+       "role": "Republican Kansas Senate president and candidate for governor"
+      },
+      {
+       "name": "Connie Schmidt",
+       "role": "Johnson County election commissioner"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Kansas City Star via Yahoo",
+       "url": "https://www.yahoo.com/news/politics/articles/kansas-governor-race-audit-underway-194854462.html"
+      },
+      {
+       "name": "KSHB 41",
+       "url": "https://www.kshb.com/news/local-news/missouri/kansas-city/wyandotte-county-begins-close-race-audit-as-kansas-awaits-official-governor-elect"
+      }
+     ],
+     "spoken": "Next door in Kansas, the governor's race is getting a hand count check. Democrat Cindy Holscher leads Republican Ty Masterson by about 7,000 votes. Because it's within one point, state law requires an audit of some precincts. Johnson County, the state's largest, starts counting today. Early checks elsewhere found no problems.",
+     "summary": "Johnson County, the most populous county in Kansas, starts hand-counting ballots Monday in a state-required audit of the governor's race, where Democrat Cindy Holscher leads Republican Ty Masterson by just over 7,000 votes. Kansas law requires hand counts in 10% of precincts when a race is within one point; early checks in Wyandotte County showed no problems. County canvasses are due Nov. 16, and Holscher has claimed victory while Masterson has not conceded.",
+     "whyItMatters": "If the result holds, Kansas keeps a Democratic governor, and Holscher, a state senator, becomes a new face in Midwest politics. Candidates usually decide on recounts after the audit."
+    }
+   ],
+   "title": "States & Local"
+  },
+  {
+   "key": "world",
+   "stories": [
+    {
+     "headline": "Trump meets Qatar's prime minister as Iran talks stall",
+     "people": [
+      {
+       "name": "Sheikh Mohammed bin Abdulrahman Al Thani",
+       "role": "Prime Minister and Foreign Minister of Qatar"
+      },
+      {
+       "name": "Marco Rubio",
+       "role": "US Secretary of State"
+      },
+      {
+       "name": "Abbas Araghchi",
+       "role": "Iranian Foreign Minister"
+      },
+      {
+       "name": "JD Vance",
+       "role": "US Vice President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations"
+      },
+      {
+       "name": "Reuters via Jerusalem Post",
+       "url": "http://www.jpost.com/international/article-914285"
+      }
+     ],
+     "spoken": "Today President Trump and Vice President Vance meet Qatar's prime minister at the White House. Qatar is the go-between in talks with Iran. Iran wants the US to lift sanctions and pull back forces before anything else. Secretary of State Marco Rubio called some of those demands outrageous. Trump says new strikes are highly unlikely if a strong deal comes, but he's also warning of more targets. What happens here affects oil prices everywhere.",
+     "summary": "Trump and Vice President JD Vance meet Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani at the White House on Monday. Qatar is passing messages between Washington and Tehran, and Iran's latest proposal asks the US to first lift sanctions, cut its military presence, free frozen funds and recognize a new Hormuz shipping route. Secretary of State Marco Rubio called some demands \"outrageous and ridiculous,\" while Trump said new strikes are \"highly unlikely\" if talks lead to a strong deal but that more targets have been picked.",
+     "whyItMatters": "The Strait of Hormuz carries a large share of the world's oil, so any deal or new strikes move energy prices worldwide. Iran still holds about 440 kg of uranium enriched to 60%, close to weapons grade."
+    },
+    {
+     "headline": "Russia and Ukraine trade heavy strikes on the eve of Abu Dhabi talks",
+     "people": [
+      {
+       "name": "Volodymyr Zelenskyy",
+       "role": "President of Ukraine"
+      },
+      {
+       "name": "Rustem Umerov",
+       "role": "Ukraine's chief negotiator"
+      },
+      {
+       "name": "Dmitry Peskov",
+       "role": "Kremlin spokesman"
+      },
+      {
+       "name": "Jean-Noël Barrot",
+       "role": "French Foreign Minister"
+      }
+     ],
+     "sources": [
+      {
+       "name": "AP via ABC News",
+       "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight"
+      },
+      {
+       "name": "Euromaidan Press",
+       "url": "https://euromaidanpress.com/2026/11/09/europe-heads-to-the-abu-dhabi-talks-on-ending-russias-war-but-the-kremlin-says-it-hasnt-discussed-a-security-deal-with-europeans/"
+      }
+     ],
+     "spoken": "Russia and Ukraine hit each other hard overnight, just before new peace talks. Russia sent more than 300 drones and says it struck four power stations in Ukraine. Ukraine's drones set a big Russian oil refinery near Saint Petersburg on fire. Talks start Tuesday in Abu Dhabi, with American envoys in the room. European officials will be there too, meeting with Ukraine on the side.",
+     "summary": "Russia launched 317 drones overnight and said it hit four power substations in Ukraine, while Ukrainian drones set fire to the KINEF oil refinery near St. Petersburg, where a woman was killed by debris. US-mediated talks between Russia and Ukraine start in Abu Dhabi on Tuesday and run two days, with US envoys Steve Witkoff and Jared Kushner attending. European officials from Britain, France, Germany, Italy, NATO and the EU will be in Abu Dhabi for separate meetings with Ukraine, though the Kremlin calls the talks strictly trilateral.",
+     "whyItMatters": "Possible topics include a Black Sea ceasefire, a halt to energy strikes and a front-line freeze. Ukraine's power grid is under severe strain going into winter, and the EU agreed to an emergency mechanism to speed repair money."
+    },
+    {
+     "headline": "Eisenkot gets first shot at forming Israel's government, says Netanyahu could join",
+     "people": [
+      {
+       "name": "Gadi Eisenkot",
+       "role": "Leader of Yashar party, former military chief"
+      },
+      {
+       "name": "Benjamin Netanyahu",
+       "role": "Caretaker Prime Minister of Israel"
+      },
+      {
+       "name": "Isaac Herzog",
+       "role": "President of Israel"
+      },
+      {
+       "name": "Avigdor Lieberman",
+       "role": "Leader of Israel Our Home party"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government"
+      },
+      {
+       "name": "Reuters via Cyprus Mail",
+       "url": "https://cyprus-mail.com/2026/11/09/eisenkot-faces-tough-coalition-talks-as-netanyahu-clings-to-power"
+      }
+     ],
+     "spoken": "In Israel, former army chief Gadi Eisenkot now has the first chance to form a government. Neither side won a majority in last month's election. Eisenkot says he's open to bringing in Prime Minister Netanyahu's party. He has about four weeks to make it work. If he fails, Netanyahu likely gets a turn.",
+     "summary": "President Isaac Herzog on Sunday asked former military chief Gadi Eisenkot to form Israel's next government after the Oct. 27 election left no bloc with a majority. Eisenkot's bloc has 48 seats and Netanyahu's has 53, out of 120; he said he is open to including Netanyahu's Likud and even far-right minister Bezalel Smotrich, but rules out Arab-led parties, which won a record 19 seats. He has 28 days, plus a possible 14-day extension.",
+     "whyItMatters": "If Eisenkot fails, Netanyahu would likely get a turn, and new elections are possible. The outcome will shape Israel's choices on Gaza, Lebanon and Iran."
+    },
+    {
+     "headline": "COP31 climate summit opens in Turkey with a fight over money",
+     "people": [
+      {
+       "name": "Antonio Guterres",
+       "role": "UN Secretary-General"
+      },
+      {
+       "name": "Murat Kurum",
+       "role": "COP31 President and Turkey's environment minister"
+      },
+      {
+       "name": "Chris Bowen",
+       "role": "Australia's climate minister, leading negotiations"
+      }
+     ],
+     "sources": [
+      {
+       "name": "AFP via Malay Mail",
+       "url": "https://www.malaymail.com/news/world/2026/11/09/get-serious-cop31-opens-in-antalya-with-leaders-under-pressure-to-tackle-climate-crisis/242615"
+      },
+      {
+       "name": "Turkish Minute",
+       "url": "https://www.turkishminute.com/2026/11/09/cop31-opens-in-antalya-with-early-dispute-over-climate-finance/"
+      }
+     ],
+     "spoken": "The big UN climate summit started today in Antalya, Turkey. The UN Secretary-General told leaders to get serious. Right away, there's a fight over money. Poorer countries want climate funding on the agenda, but Europe says there's little appetite for new pledges. The Trump administration didn't send anyone, though some members of Congress are going.",
+     "summary": "The UN climate summit COP31 opened Monday in Antalya, Turkey, with UN chief Antonio Guterres telling leaders to \"get serious.\" Developing countries pushed to put climate finance on the official agenda, while a senior EU official warned there is no political will for new funding pledges. Turkey is hosting and Australia leads the negotiations; the Trump administration sent no officials, though a US congressional delegation is attending.",
+     "whyItMatters": "The two-week meeting is meant to turn past pledges into action, including Turkey's plan to raise electricity's share of global energy use from about 20% to 35% by 2035. Few big breakthroughs are expected given the oil price shock and the wars in Iran and Ukraine."
+    },
+    {
+     "headline": "Houthi attack damages Aramco tower in Riyadh as Yemen war spreads",
+     "people": [
+      {
+       "name": "Yahya Saree",
+       "role": "Houthi military spokesman"
+      },
+      {
+       "name": "Turki al-Maliki",
+       "role": "Saudi-led coalition spokesman"
+      },
+      {
+       "name": "Anees al-Asbahi",
+       "role": "Houthi-run health ministry spokesman"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Middle East Eye",
+       "url": "https://www.middleeasteye.net/news/saudi-aramco-tower-damaged-after-houthi-missile-attacks-riyadh"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+      }
+     ],
+     "spoken": "The war in Yemen reached Saudi Arabia's capital again. Debris from a Houthi missile attack damaged the Aramco oil company's tower in Riyadh on Sunday. No one was hurt. Inside Yemen, Houthi officials say Saudi-led airstrikes killed at least 33 people on Saturday, including 13 children. A 2022 truce has fallen apart, and the fighting is getting worse.",
+     "summary": "Shrapnel from a Houthi missile attack damaged the Aramco Tower in Riyadh's King Abdullah Financial District on Sunday, blowing out windows on several floors; Saudi officials said no one was hurt. The Saudi-led coalition said it shot down several ballistic and cruise missiles. In Yemen, the Houthi-run health ministry said coalition airstrikes on Saturday killed at least 33 people, including 13 children, east of Sanaa; more than 50 were reported killed in 24 hours.",
+     "whyItMatters": "The fighting follows the collapse of the 2022 truce and a new government push to retake Sanaa. Strikes on Saudi oil and financial sites add risk to Gulf energy supplies already hit by the Iran war."
+    },
+    {
+     "headline": "Indonesia weighs palace bug sweeps as wiretap scandal strains Prabowo-Jokowi ties",
+     "people": [
+      {
+       "name": "Prabowo Subianto",
+       "role": "President of Indonesia"
+      },
+      {
+       "name": "Joko Widodo",
+       "role": "Former President of Indonesia"
+      },
+      {
+       "name": "Listyo Sigit Prabowo",
+       "role": "Former national police chief, arrested"
+      },
+      {
+       "name": "Yusril Ihza Mahendra",
+       "role": "Senior Minister for Legal Affairs"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Reuters via The Star",
+       "url": "https://www.thestar.com.my/news/world/2026/11/09/indonesia-considers-bug-sweeps-tighter-controls-on-spy-tools-after-wiretap-scandal"
+      },
+      {
+       "name": "The Jakarta Post",
+       "url": "http://www.thejakartapost.com/indonesia/2026/11/09/wiretap-scandal-could-trigger-shake-up-in-ruling-coalition"
+      }
+     ],
+     "spoken": "In Indonesia, the wiretap scandal keeps growing. The government says it may sweep the presidential palace for bugs. A former national police chief and three other generals were arrested for secretly tapping President Prabowo and others. That former chief is seen as close to ex-president Jokowi. Analysts say a cabinet shake-up could be next.",
+     "summary": "Indonesia's senior legal affairs minister, Yusril Ihza Mahendra, said Monday the government may sweep the presidential palace for bugs and tighten control of state spy tools after illegal wiretaps targeted President Prabowo Subianto and other officials. Former police chief Listyo Sigit Prabowo and three other generals were arrested and are being investigated for possible treason; no charges have been filed. Prabowo met 10 former police chiefs on Sunday.",
+     "whyItMatters": "Listyo is seen as close to former president Joko Widodo, whose son is vice president. Analysts say the scandal could lead to a cabinet reshuffle against Jokowi allies, at a time when the government is trying to win back investors."
+    },
+    {
+     "headline": "At least 34 migrants die as boat sinks off Senegal",
+     "people": [],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/08/at-least-21-dead-after-migrant-boat-capsizes-off-senegal-authorities-say"
+      }
+     ],
+     "spoken": "Off the coast of Senegal, a migrant boat sank on Saturday. At least 34 people died, according to state media. The boat was headed for Spain's Canary Islands. One Canary island, El Hierro, just declared an emergency after more than 3,300 arrivals this month. This route keeps getting longer and more dangerous as controls tighten.",
+     "summary": "A pirogue carrying migrants capsized Saturday off Kébémer in northwestern Senegal, killing at least 34 people according to Senegal's state news agency; the Interior Ministry earlier gave a toll of 21 and said one survivor was found. The boat was on the Atlantic route toward Spain's Canary Islands, where El Hierro declared an emergency after more than 3,300 people arrived on about 30 boats since the start of November.",
+     "whyItMatters": "The Atlantic route is one of the deadliest migration paths, with 635 deaths counted in the first five months of 2026. Tighter controls in Senegal, Morocco and Mauritania are pushing departures farther south, making trips longer and riskier."
+    },
+    {
+     "headline": "Mudslide kills five in Gaza as winter storm floods tens of thousands of tents",
+     "people": [
+      {
+       "name": "Tareq Abu Azzoum",
+       "role": "Al Jazeera reporter in Deir el-Balah"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people"
+      },
+      {
+       "name": "Just Security",
+       "url": "https://www.justsecurity.org/163775/early-edition-november-9-2026/"
+      }
+     ],
+     "spoken": "In Gaza, heavy rain turned deadly. A mudslide fell onto a tent in Deir el-Balah on Sunday and killed four children and a woman. About 70,000 tents have flooded. Aid groups say sturdier shelters have been blocked from coming in. More than a year after the ceasefire, most people there still live in tents.",
+     "summary": "A sandbank collapsed onto a tent in Deir el-Balah on Sunday, killing four children and a woman, as the season's first winter storm flooded about 70,000 tents. Save the Children says more than half a million children live in \"critical or catastrophic\" shelter and that Israel has repeatedly blocked sturdier caravans. Gaza's government media office blamed Israel, the US and the international community for inaction.",
+     "whyItMatters": "More than a year into the ceasefire, most Gazans still live in tents. Shelter and aid access will be a key test of Trump's Gaza plan, which he has told Netanyahu to carry out no matter who forms Israel's next government."
+    }
+   ],
+   "title": "World"
+  },
+  {
+   "key": "econ",
+   "stories": [
+    {
+     "headline": "Nvidia shares fall as board probes CEO's ties to suspected Chinese spy",
+     "people": [
+      {
+       "name": "Jensen Huang",
+       "role": "Nvidia CEO"
+      },
+      {
+       "name": "Alice Huang",
+       "role": "Former Megaspeed executive, suspected by US intelligence"
+      },
+      {
+       "name": "Guo Jiakun",
+       "role": "China Foreign Ministry spokesperson"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal"
+      },
+      {
+       "name": "The National News Desk via Local 12",
+       "url": "https://local12.com/news/nation-world/president-donald-trump-calls-ai-chipmaker-nvidia-ceo-jensen-huang-honorable-guy-amid-probe-into-ties-to-suspected-chinese-spy-beijing-admitted-affair-alice-huang-foreign-intelligence"
+      },
+      {
+       "name": "TheStreet",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+      }
+     ],
+     "spoken": "Nvidia, the giant AI chip company, is in a tough spot. Its board is investigating whether CEO Jensen Huang was targeted by Chinese intelligence. Reports say US officials suspect a woman he had an affair with was working for Beijing. Her company bought nearly 5 billion dollars of Nvidia chips. The stock fell about 5 percent before trading opened. President Trump defended Huang, and China calls the story a smear.",
+     "summary": "Nvidia's board opened an independent investigation into whether CEO Jensen Huang was targeted by foreign intelligence, after reports that US officials believe Alice Huang, an executive at Singapore-based Megaspeed, was working for Beijing. Jensen Huang admitted an affair with her in a staff memo; Megaspeed bought more than $4.8 billion in Nvidia chips. Nvidia shares fell about 5% before the market opened Monday; Trump called Huang \"an honorable guy,\" and China called the claims a smear.",
+     "whyItMatters": "Nvidia is one of the world's most valuable companies and central to the AI boom and US-China chip rules. House Republican committee leaders have asked Huang to brief them on Nov. 18."
+    },
+    {
+     "headline": "Oil falls and Asian stocks bounce after Trump says new Iran strikes unlikely",
+     "people": [
+      {
+       "name": "Ole Hansen",
+       "role": "Analyst, Saxo Bank"
+      }
+     ],
+     "sources": [
+      {
+       "name": "TheStreet",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-09-202"
+      },
+      {
+       "name": "HDFC Sky",
+       "url": "https://hdfcsky.com/news/global-markets-today-november-9-2026-asia-rises-us-futures-higher-oil-slips-to-98-as-easing-iran-tensions-lift-sentiment"
+      }
+     ],
+     "spoken": "Oil prices dropped again this morning. Brent crude fell about 3.6 percent to around 95 dollars a barrel. That's after Trump said new strikes on Iran are unlikely while talks go on. Stocks in Asia bounced back from last week's selloff, with Taiwan up nearly 6 percent. Analysts say oil is moving on hope more than on real progress.",
+     "summary": "Brent crude fell about 3.6% to roughly $95 a barrel and US crude fell about 3% to around $88 after Trump said new strikes on Iran were unlikely while talks continue. Asian markets rebounded from last week's AI-led sell-off: Japan's Nikkei rose 3.4% and Taiwan's main index about 5.7%. US Nasdaq futures were higher after the S&P 500 had its worst week since April 2025; gold rose to about $4,120.",
+     "whyItMatters": "Oil is trading on hopes for an Iran deal more than real progress, so prices could swing back fast. Investors are also weighing whether a Democratic Congress will tighten rules on AI and crypto."
+    },
+    {
+     "headline": "October inflation report Tuesday is the last big test before a possible Fed hike",
+     "people": [
+      {
+       "name": "Michelle Bowman",
+       "role": "Federal Reserve Governor"
+      },
+      {
+       "name": "Austan Goolsbee",
+       "role": "Chicago Fed President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Kiplinger",
+       "url": "https://www.kiplinger.com/investing/economy/october-2026-cpi-report-what-to-expect"
+      },
+      {
+       "name": "TipRanks",
+       "url": "https://www.tipranks.com/news/u-s-markets-brace-for-october-cpi-report-after-hot-jobs-data-pushes-december-rate-hike-odds-past-65"
+      },
+      {
+       "name": "HDFC Sky",
+       "url": "https://hdfcsky.com/news/global-markets-today-november-9-2026-asia-rises-us-futures-higher-oil-slips-to-98-as-easing-iran-tensions-lift-sentiment"
+      }
+     ],
+     "spoken": "Tomorrow morning we get the October inflation report. Forecasters expect prices rose about 0.3 percent for the month. That would be slower than September's big jump. It's the last inflation number before the Federal Reserve meets on December 9. Markets now think a rate hike is more likely than not, so a hot number could lock it in.",
+     "summary": "The Labor Department releases October consumer prices Tuesday at 8:30 a.m. Eastern. Forecasters expect a 0.3% rise in overall prices and 0.2% for core prices, down from September's 0.6% headline jump; there will be no official year-over-year number because October 2025 data was never collected during the shutdown. After strong October jobs data, markets put the odds of a quarter-point Fed rate hike on Dec. 9 at roughly 65% to 80%.",
+     "whyItMatters": "The Fed raised rates in September for the first time in three years. A hot reading would make a December hike very likely, raising borrowing costs for homes, cars and credit cards."
+    },
+    {
+     "headline": "China's factory prices rise at fastest pace in about 4.5 years",
+     "people": [],
+     "sources": [
+      {
+       "name": "Reuters via The Star",
+       "url": "https://www.thestar.com.my/business/business-news/2026/11/09/china039s-factory-gate-inflation-gains-momentum-in-october-consumer-price-pressures-stay-muted"
+      }
+     ],
+     "spoken": "In China, factory prices are rising fast. They were up 5.7 percent from a year ago in October, the quickest pace in about four and a half years. High oil prices are the main reason. But shoppers aren't spending much, so consumer prices rose less than 1 percent. That gap shows a weak economy at home, even as costs climb.",
+     "summary": "China's producer prices rose 5.7% from a year earlier in October, up from 5.0% in September and above forecasts, driven by high global oil prices. Consumer prices rose only 0.7%, down from 0.9%, and core inflation eased to 0.8%. Officials say supply is strong but household demand is weak.",
+     "whyItMatters": "Rising costs for Chinese factories can feed into the prices of goods the world buys from China. Weak consumer spending at home adds pressure on Beijing to support growth as the AI stock slump and a strong yuan squeeze exporters."
+    },
+    {
+     "headline": "Lame-duck Congress faces Dec. 11 shutdown deadline and a debt-limit fight in January",
+     "people": [
+      {
+       "name": "Mike Johnson",
+       "role": "House Speaker"
+      },
+      {
+       "name": "Rosa DeLauro",
+       "role": "Top Democrat, House Appropriations Committee"
+      },
+      {
+       "name": "Ron Johnson",
+       "role": "Senate Budget Committee chair"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Fox News",
+       "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+      },
+      {
+       "name": "The Hill via AOL",
+       "url": "https://www.aol.com/articles/week-hill-congress-returns-leadership-220000000.html"
+      }
+     ],
+     "spoken": "Congress is back today, and money is the big issue. Government funding runs out on December 11. The House has passed only three of the twelve spending bills, so a short-term patch is likely. Then the debt limit comes due in January. Republicans want to get things done before Democrats take over both chambers.",
+     "summary": "Congress returned Monday with government funding set to run out Dec. 11; the House has passed only three of the 12 spending bills, and most expect a short-term stopgap, possibly into February or March. The debt ceiling deadline hits in January, and lawmakers are also eyeing a farm bill, a bipartisan tax package and permitting reform. Some Democrats have signaled they may use the Iran war as leverage in spending talks.",
+     "whyItMatters": "Democrats take control of both chambers in January, so Republicans want to lock in their priorities now. A shutdown or debt-limit standoff would hit federal workers and could rattle markets."
+    }
+   ],
+   "title": "Economy & Markets"
+  }
+ ],
+ "spoken": {
+  "intro": "Good morning, Alexa! It's Monday, November 9th. Congress is back, and the House may vote this week to impeach Defense Secretary Pete Hegseth. President Trump says his deportation policy might have been too tough. And Russia and Ukraine traded big strikes right before peace talks start tomorrow in Abu Dhabi.",
+  "outro": "That's your brief for today. Have a great Monday, Alexa, and good luck this week!"
+ }
+}
