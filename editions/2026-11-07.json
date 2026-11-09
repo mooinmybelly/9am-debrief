@@ -1,0 +1,702 @@
+{
+ "covers": "Covers Nov 6, 9:00 AM – Nov 7, 9:00 AM CT",
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T15:30:00Z",
+ "overview": [
+  "Trump named Stephen Miller as White House chief of staff in place of Susie Wiles, as fallout from the Republican midterm losses spreads to the Senate GOP and the Justice Department.",
+  "Democrats are on pace for about 256 House seats and at least 54 Senate seats, with the Mississippi and Alaska Senate races still being counted.",
+  "A strong October jobs report (165,000 jobs) raised odds of a Fed rate hike in December, as stocks ended their worst week since June and the Iran war kept hitting shipping in the Strait of Hormuz."
+ ],
+ "sections": [
+  {
+   "key": "us",
+   "stories": [
+    {
+     "headline": "Trump names Stephen Miller chief of staff, replacing Susie Wiles",
+     "people": [
+      {
+       "name": "Stephen Miller",
+       "role": "Incoming White House chief of staff"
+      },
+      {
+       "name": "Susie Wiles",
+       "role": "Outgoing White House chief of staff"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "Robert Garcia",
+       "role": "Top Democrat on House Oversight Committee"
+      }
+     ],
+     "sources": [
+      {
+       "name": "PBS NewsHour",
+       "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "President Trump has picked Stephen Miller as his new White House chief of staff. Miller is his longtime adviser and the main force behind his tough immigration policies. He replaces Susie Wiles, who is moving over to Trump's political operation, and he starts Monday. This comes just days after Republicans lost both the House and the Senate. Democrats, who take over Congress in January, are already promising to investigate him.",
+     "summary": "President Trump announced Friday that Stephen Miller, his deputy chief of staff and the main architect of his hard-line immigration policies, will become White House chief of staff starting Monday, Nov. 9. Susie Wiles, the first woman in the job and Trump's longest-serving chief of staff, is moving to Trump's political operation. The change comes days after Republicans lost control of both the House and Senate.",
+     "whyItMatters": "The pick signals Trump is doubling down rather than moderating after the midterm defeat. Rep. Robert Garcia, the incoming Democratic chair of the House Oversight Committee, has already promised to investigate Miller."
+    },
+    {
+     "headline": "Democrats' House majority grows as counting continues",
+     "people": [
+      {
+       "name": "Hakeem Jeffries",
+       "role": "House Democratic leader, running for speaker"
+      },
+      {
+       "name": "Mike Johnson",
+       "role": "Outgoing House speaker"
+      },
+      {
+       "name": "Nancy Lacore",
+       "role": "Democratic winner, SC-1"
+      },
+      {
+       "name": "Scott Wiener",
+       "role": "Democratic winner, CA-11"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News (House results)",
+       "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+      },
+      {
+       "name": "CBS News (live updates)",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "The Democratic House majority keeps getting bigger as votes are counted. CBS News now estimates Democrats will hold about 256 seats in January, up from 214 today. On Friday, Democrat Nancy Lacore won the South Carolina seat once held by Nancy Mace, and Democrat Scott Wiener won Nancy Pelosi's old seat in San Francisco. On the Republican side, Speaker Mike Johnson won't run for minority leader, so Jim Jordan and Steve Scalise are competing for it.",
+     "summary": "CBS News estimates Democrats are on pace for about 256 House seats in January, up from 214 now, and at least 54 Senate seats. Democrats have flipped more than 40 Republican-held districts, and more than two dozen House races are still uncalled. On Friday, Democrat Nancy Lacore won South Carolina's 1st District, and Scott Wiener won the San Francisco seat Nancy Pelosi is leaving.",
+     "whyItMatters": "A majority that large gives House Democrats room to pass bills and run investigations without relying on every member. Speaker Mike Johnson won't run for minority leader, opening a Republican race between Jim Jordan and Steve Scalise."
+    },
+    {
+     "headline": "Senate Republicans push to delay leadership vote as Thune faces pressure",
+     "people": [
+      {
+       "name": "Ron Johnson",
+       "role": "Republican senator, Wisconsin"
+      },
+      {
+       "name": "John Thune",
+       "role": "Senate majority leader"
+      },
+      {
+       "name": "Chuck Schumer",
+       "role": "Senate Democratic leader"
+      },
+      {
+       "name": "Chris Van Hollen",
+       "role": "Democratic senator, Maryland"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Just the News",
+       "url": "https://justthenews.com/government/congress/ron-johnson-seeks-delay-senate-republican-leadership-election-after-big-losses"
+      },
+      {
+       "name": "Political Wire (citing Punchbowl News)",
+       "url": "https://politicalwire.com/2026/11/06/thune-faces-revolt-over-leadership-election-timing/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "Senate Republicans are arguing over their leadership after losing the majority. Senator Ron Johnson of Wisconsin got enough colleagues to force a meeting on delaying next Tuesday's leadership vote. Majority Leader John Thune is still expected to keep his job, and President Trump called him a good man but said it's up to Republicans. On the Democratic side, Senator Chris Van Hollen said he won't challenge Chuck Schumer for leader.",
+     "summary": "Sen. Ron Johnson of Wisconsin gathered the five signatures needed to force a Senate Republican meeting on delaying next Tuesday's leadership elections, after the party lost at least seven seats. Majority Leader John Thune is still expected to keep the top job, which would become minority leader in January. Trump called Thune a \"good man\" but said Republicans will decide his future, and pressed the Senate to pass the SAVE America Act before the new Congress arrives.",
+     "whyItMatters": "The fight shows how the midterm loss is splitting Republicans over who should lead them in opposition. On the Democratic side, Sen. Chris Van Hollen said he won't challenge Chuck Schumer, though some incoming senators say they won't back Schumer."
+    },
+    {
+     "headline": "More top Justice Department officials resign after midterms",
+     "people": [
+      {
+       "name": "Jason Reding Quiñones",
+       "role": "Outgoing U.S. attorney, Southern District of Florida"
+      },
+      {
+       "name": "John Eisenberg",
+       "role": "Outgoing head of DOJ National Security Division"
+      },
+      {
+       "name": "Harmeet Dhillon",
+       "role": "Outgoing head of DOJ Civil Rights Division"
+      },
+      {
+       "name": "Todd Blanche",
+       "role": "Attorney general"
+      }
+     ],
+     "sources": [
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/US/us-attorney-tasked-leading-grand-conspiracy-probe-trumps/story?id=137912307"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "Two more senior Justice Department officials resigned on Friday. One is John Eisenberg, who ran the national security division. The other is Jason Reding Quiñones, the top federal prosecutor in South Florida, who led an investigation into the President's political opponents that has not produced any charges. They follow Harmeet Dhillon, who left the civil rights division a day earlier.",
+     "summary": "Two more senior Justice Department officials quit Friday: John Eisenberg, head of the National Security Division, and Jason Reding Quiñones, the top federal prosecutor in South Florida. Quiñones had led the department's \"grand conspiracy\" investigation into Trump's opponents, which has produced no indictments. They follow Harmeet Dhillon, who left the Civil Rights Division on Thursday.",
+     "whyItMatters": "The departures point to turmoil at the department as Democrats prepare to take over congressional oversight in January. Attorney General Todd Blanche praised Quiñones's work as he announced the exit."
+    },
+    {
+     "headline": "Trump signals more firings to come",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "Ross Douthat",
+       "role": "60 Minutes correspondent"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News (live updates)",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      },
+      {
+       "name": "CBS News (60 Minutes)",
+       "url": "https://www.cbsnews.com/news/trump-60-minutes-sunday-midterms/"
+      }
+     ],
+     "spoken": "President Trump is hinting that more staff changes are coming. In an interview with 60 Minutes taped Friday, he said he expects some firings, even though he says he loves his Cabinet. The interview also covers the midterm losses, the wars in Iran and Ukraine, and the economy. It airs Sunday night on CBS.",
+     "summary": "In a 60 Minutes interview taped Friday with correspondent Ross Douthat, Trump said he expects some firings even though he loves his Cabinet, according to CBS News. Hours later he announced the change of chief of staff. The interview covers the Republican losses, coming congressional investigations, the Iran and Ukraine wars and the economy, and airs Sunday.",
+     "whyItMatters": "A wider shake-up would reshape the administration just as it faces a Democratic Congress with subpoena power."
+    }
+   ],
+   "title": "United States"
+  },
+  {
+   "key": "local",
+   "stories": [
+    {
+     "headline": "Colom keeps narrow lead in Mississippi Senate count as ballot fight grows",
+     "people": [
+      {
+       "name": "Scott Colom",
+       "role": "Democratic Senate candidate, Mississippi; district attorney"
+      },
+      {
+       "name": "Cindy Hyde-Smith",
+       "role": "Republican U.S. senator, Mississippi"
+      },
+      {
+       "name": "Mike Hurst",
+       "role": "Mississippi GOP chairman"
+      },
+      {
+       "name": "Michael Watson",
+       "role": "Mississippi secretary of state"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Mississippi Free Press",
+       "url": "https://www.mississippifreepress.org/liveblog-mississippis-2026-u-s-senate-election-results/"
+      },
+      {
+       "name": "Democracy Docket",
+       "url": "https://www.democracydocket.com/news-alerts/live-mississippi-senate-ballot-fight-heats-up/"
+      }
+     ],
+     "spoken": "In Mississippi, the Senate race is still not decided. Democrat Scott Colom, a local district attorney, leads Republican Senator Cindy Hyde-Smith by about 2,000 votes. Thousands of ballots are still being reviewed, and Republicans have asked counties to set aside affidavit ballots, which could lead to legal challenges. Voters have until November 10th to fix problems with their ballots, and counties must certify by November 13th.",
+     "summary": "Democrat Scott Colom led Republican Sen. Cindy Hyde-Smith by about 2,010 votes Friday, out of more than 930,000 counted. Thousands of affidavit and mail ballots are still being reviewed, and Republicans have asked all 82 counties to set aside affidavit ballots, a likely first step toward challenging them. Voters have until Nov. 10 to fix their ballots, and counties must certify by Nov. 13.",
+     "whyItMatters": "Colom, a district attorney, flipped once reliably Republican areas in a deep-red state. The result will help decide how big the new Democratic Senate majority is."
+    },
+    {
+     "headline": "Ohio Governor-elect Amy Acton says she won't speak with Ramaswamy",
+     "people": [
+      {
+       "name": "Amy Acton",
+       "role": "Democratic governor-elect, Ohio"
+      },
+      {
+       "name": "Vivek Ramaswamy",
+       "role": "Defeated Republican candidate for Ohio governor"
+      },
+      {
+       "name": "Mike DeWine",
+       "role": "Outgoing Republican governor, Ohio"
+      }
+     ],
+     "sources": [
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/news/amy-acton-vivek-ramaswamy-ohio-governor-campaign-ad/"
+      },
+      {
+       "name": "Newsweek",
+       "url": "https://www.newsweek.com/amy-acton-responds-after-vivek-ramaswamys-concession-voicemail-12679857"
+      }
+     ],
+     "spoken": "In Ohio, Governor-elect Amy Acton gave her first TV interview since her win. Acton is a Democrat and the state's former health director, and she beat Republican Vivek Ramaswamy by about 8 points in a state Trump won easily. She said she has no plans to talk to Ramaswamy and called his late campaign ad featuring her estranged mother terrible and despicable. She's the first Democrat to win the Ohio governor's race since 2006.",
+     "summary": "Democrat Amy Acton, Ohio's former health director, beat Republican Vivek Ramaswamy by about 8 points in a state Trump won by 11 in 2024. In her first TV interview since winning, on CBS Mornings Friday, she said she has no plans to talk with Ramaswamy and called his late ad featuring her estranged mother \"terrible and despicable.\" Gov. Mike DeWine had said the ad was wrong, while Trump defended it.",
+     "whyItMatters": "Acton has never held elected office and is the first Democrat to win Ohio's governorship since 2006, making her one of the most watched newcomers of the cycle. She backs a conditional pause on new data centers, an issue rising across states."
+    },
+    {
+     "headline": "Peltola holds slim edge in Alaska Senate race",
+     "people": [
+      {
+       "name": "Mary Peltola",
+       "role": "Democratic Senate candidate, Alaska"
+      },
+      {
+       "name": "Dan Sullivan",
+       "role": "Republican U.S. senator, Alaska"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Reason",
+       "url": "https://reason.com/2026/11/06/mary-peltola-appears-likely-to-defeat-both-dan-sullivans-in-alaskas-senate-race/"
+      },
+      {
+       "name": "CBS News",
+       "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+      }
+     ],
+     "spoken": "Alaska's Senate race is also still open. Democrat Mary Peltola leads Republican Senator Dan Sullivan by just over 600 votes, with about three quarters of ballots counted. A second candidate who is also named Dan Sullivan pulled some votes, and many of his voters ranked Peltola second. The state has until November 18th to finish counting.",
+     "summary": "Democrat Mary Peltola leads Republican Sen. Dan Sullivan by just over 600 votes with about three-fourths of ballots counted, and about 10,000 ballots still need hand counting. Analysts expect ranked-choice tabulation will not help Sullivan much, because many voters for a second, unrelated candidate also named Dan Sullivan ranked Peltola second. Alaska must finish counting by Nov. 18.",
+     "whyItMatters": "A Peltola win would add another Senate seat for Democrats. A federal judge earlier this week dismissed a Justice Department lawsuit over the second Sullivan's ballots."
+    },
+    {
+     "headline": "Missouri Democrats break GOP supermajority; Lucas eyes 2028",
+     "people": [
+      {
+       "name": "Emily Weber",
+       "role": "Democratic state representative, Kansas City; outgoing House minority caucus chair"
+      },
+      {
+       "name": "Quinton Lucas",
+       "role": "Kansas City mayor, weighing 2028 statewide run"
+      },
+      {
+       "name": "Mike Kehoe",
+       "role": "Republican governor, Missouri"
+      },
+      {
+       "name": "Eric Schmitt",
+       "role": "Republican U.S. senator, Missouri"
+      }
+     ],
+     "sources": [
+      {
+       "name": "St. Louis Public Radio",
+       "url": "https://www.stlpr.org/government-politics-issues/2026-11-06/how-missouri-democrats-broke-the-republican-supermajority-in-the-legislature-and-whats-next"
+      },
+      {
+       "name": "KSHB",
+       "url": "https://www.kshb.com/news/local-news/kcmo-mayor-quinton-lucas-considers-2028-run-for-missouri-governor-us-senate"
+      }
+     ],
+     "spoken": "Here in Missouri, Democrats broke the Republican supermajority in both chambers of the state legislature for the first time since 2012. They flipped 2 state Senate seats and 16 House seats, including in St. Louis County and St. Charles County. State Representative Emily Weber of Kansas City credited hard ground work and record fundraising. And Kansas City Mayor Quinton Lucas says he is now even more likely to run for governor or the U.S. Senate in 2028.",
+     "summary": "Missouri Democrats flipped 2 state Senate seats and 16 state House seats, ending Republican supermajorities that had held since 2012, though Republicans keep majorities of 95-68 in the House and 22-12 in the Senate. Outgoing House minority caucus chair Emily Weber credited door-knocking, a record $6.1 million in fundraising and 155 candidates, with wins in St. Louis County and St. Charles County. Kansas City Mayor Quinton Lucas said he is now even more likely to run statewide in 2028, for governor or U.S. Senate.",
+     "whyItMatters": "Weber said losing the supermajority gives Democrats leverage to push issues like affordability, health care, gas prices and utility rates. Lucas is the clearest early Democratic name for a 2028 run against Gov. Mike Kehoe or Sen. Eric Schmitt."
+    },
+    {
+     "headline": "Maine's Gov.-elect Hannah Pingree starts transition with Mills",
+     "people": [
+      {
+       "name": "Hannah Pingree",
+       "role": "Democratic governor-elect, Maine"
+      },
+      {
+       "name": "Janet Mills",
+       "role": "Outgoing Democratic governor, Maine"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Maine Public",
+       "url": "https://www.mainepublic.org/politics/2026-11-06/maines-governor-and-governor-elect-discuss-plans-for-smooth-transition"
+      }
+     ],
+     "spoken": "In Maine, Governor-elect Hannah Pingree and outgoing Governor Janet Mills held a joint press conference to promise a smooth handoff. Pingree is a Democrat, a former speaker of the Maine House, and was a top adviser to Mills. She won about 54 percent of the vote. She'll face a roughly one billion dollar budget gap when she takes office.",
+     "summary": "Democrat Hannah Pingree, a former Maine House speaker and top adviser to Gov. Janet Mills, won about 54% of the vote against Republican Bobby Charles and independent Rick Bennett. On Friday, Mills and Pingree promised a smooth handoff, and Mills told all state agencies to cooperate. Pingree said she will focus on affordability, including heating oil, housing and health care.",
+     "whyItMatters": "Pingree takes over with larger Democratic majorities but faces an estimated $1 billion gap in the state budget. Budget talks start next week."
+    }
+   ],
+   "title": "States & Local"
+  },
+  {
+   "key": "world",
+   "stories": [
+    {
+     "headline": "Iran war: tankers hit and US drones downed in Strait of Hormuz",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "US president"
+      },
+      {
+       "name": "Abbas Araghchi",
+       "role": "Iranian foreign minister"
+      },
+      {
+       "name": "Mohsen Rezaei",
+       "role": "Secretary of Iran's Supreme National Security Council"
+      },
+      {
+       "name": "Sheikh Tamim bin Hamad Al Thani",
+       "role": "Emir of Qatar"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+      },
+      {
+       "name": "ABC News",
+       "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456"
+      },
+      {
+       "name": "Anadolu Agency",
+       "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-6-2026/4113576"
+      }
+     ],
+     "spoken": "The Iran war flared again around the Strait of Hormuz. Iran's Revolutionary Guard says it shot down American surveillance drones, and several tankers reported explosions, with one sailor killed. President Trump warned the US may have to destroy the rest of Iran, but also said talks are making progress. Iran sent a new peace proposal through Qatar on Thursday. The attacks matter for everyone, because they keep oil and fuel prices high.",
+     "summary": "Iran's Revolutionary Guard said it shot down US reconnaissance drones near Qeshm Island, and tanker operators reported explosions in the Strait of Hormuz; a crew member died after a suspected missile hit the Greek-owned tanker Velos. Trump said the US could have to \"destroy the rest\" of Iran, but called recent US strikes on Qeshm \"minor\" and said there has been progress toward a deal. Iran sent a new peace proposal through Qatari mediators on Thursday, and a senior Iranian official met Vladimir Putin in Moscow.",
+     "whyItMatters": "Attacks on shipping keep oil and fuel prices high around the world even as markets hope the war will wind down. The US naval blockade of Iran and Iran's grip on Hormuz remain in place."
+    },
+    {
+     "headline": "Eisenkot wins majority backing to try to replace Netanyahu",
+     "people": [
+      {
+       "name": "Gadi Eisenkot",
+       "role": "Leader of the Yashar party"
+      },
+      {
+       "name": "Benjamin Netanyahu",
+       "role": "Israeli prime minister"
+      },
+      {
+       "name": "Isaac Herzog",
+       "role": "Israeli president"
+      },
+      {
+       "name": "Avigdor Liberman",
+       "role": "Yisrael Beytenu leader"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Times of Israel",
+       "url": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+      },
+      {
+       "name": "Jewish Telegraphic Agency",
+       "url": "https://jta.org/2026/11/06/israel/eisenkot-moves-closer-to-ousting-netanyahu-heres-what-could-come-next"
+      }
+     ],
+     "spoken": "In Israel, Benjamin Netanyahu's hold on power is in real danger. After last month's election, 67 of the 120 members of parliament backed his rival Gadi Eisenkot to form the next government, compared with 46 for Netanyahu. President Isaac Herzog will announce his pick on Sunday. Eisenkot still has a hard road, because some of his supporters refuse to sit in government together.",
+     "summary": "After Israel's Oct. 28 election, 67 of 120 Knesset members recommended Gadi Eisenkot, leader of the Yashar party, to form the next government, compared with 46 for Prime Minister Benjamin Netanyahu. President Isaac Herzog said the result is clear and will name his choice on Sunday. Eisenkot's backers include two Arab-led parties that his Jewish-led allies refuse to govern with, so his path to a 61-seat coalition is still unclear.",
+     "whyItMatters": "It is the strongest threat to Netanyahu's rule in years and could change Israel's approach to Gaza and the Iran war. If Eisenkot fails within 28 days plus a possible extension, Israel could face another election."
+    },
+    {
+     "headline": "Paraguay removes President Peña over bank collapse; Alliana sworn in",
+     "people": [
+      {
+       "name": "Santiago Peña",
+       "role": "Removed president of Paraguay"
+      },
+      {
+       "name": "Pedro Alliana",
+       "role": "New president of Paraguay"
+      },
+      {
+       "name": "Carlos Carvallo",
+       "role": "Former central bank president"
+      },
+      {
+       "name": "Antonio Barrios",
+       "role": "Senator named vice president"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Reuters (via Yahoo News)",
+       "url": "https://www.yahoo.com/news/world/articles/paraguays-alliana-sworn-president-pe-230304379.html"
+      },
+      {
+       "name": "The Rio Times",
+       "url": "https://www.riotimesonline.com/paraguay-senate-removes-pena-alliana-sworn-in-2026/"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/05/paraguayan-president-resigns-amid-bank-collapse-leaving-3m-people-without-access-to-bank-a"
+      }
+     ],
+     "spoken": "Paraguay has a new president. The Senate voted on Friday to remove Santiago Peña, a day after he resigned, over the collapse of a digital bank called Ueno that left about 3 million people unable to reach their money. Vice President Pedro Alliana was sworn in less than an hour later. Police then detained Peña at his home, and a judge is set to decide on his custody today.",
+     "summary": "Paraguay's Senate voted 44 of 45 on Friday to remove President Santiago Peña, a day after he resigned, over the collapse of Ueno, a digital bank with about 3 million customers whose accounts are frozen. Vice President Pedro Alliana was sworn in within the hour, and police detained Peña at his home along with former central bank chief Carlos Carvallo on breach-of-trust accusations. A judge was set to rule on Peña's custody Saturday.",
+     "whyItMatters": "Peña was a close Trump ally, and the bank's failure froze savings including public pension money in one of South America's smaller economies. Alliana will serve until August 2028."
+    },
+    {
+     "headline": "At least 30 killed in strike on Yemen market as Saudi-Houthi war escalates",
+     "people": [
+      {
+       "name": "Yahya Saree",
+       "role": "Houthi military spokesperson"
+      },
+      {
+       "name": "Majed al-Nazili",
+       "role": "Spokesperson for Yemeni government forces"
+      },
+      {
+       "name": "Anees Alsabahi",
+       "role": "Houthi health ministry spokesperson"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market"
+      },
+      {
+       "name": "AP (via Boston Globe)",
+       "url": "https://www.bostonglobe.com/2026/11/06/world/airstrikes-market-southwestern-yemen-kill-least-30-houthis-say/"
+      }
+     ],
+     "spoken": "In Yemen, at least 30 people were killed when a market in Taiz province was hit on Friday. The Houthi rebels blame Saudi airstrikes, while Yemen's Saudi-backed government blames Houthi missiles. Neither claim has been confirmed. Fighting in Yemen has picked up sharply this fall, and the United Nations warns that the besieged city of Taiz is running short of food and medicine.",
+     "summary": "An attack on the al-Hadara market in Taiz province killed at least 30 people and wounded 8, according to Houthi health officials. The Houthis blamed Saudi airstrikes, while Yemen's Saudi-backed government blamed Houthi missiles; neither claim could be verified. The government launched an offensive on Houthi territory in October, and the Houthis have besieged Taiz city for 30 days.",
+     "whyItMatters": "Yemen's war has reignited alongside the Iran war, with daily Houthi attacks on Saudi Arabia and a worsening food and medicine shortage in Taiz. The UN has warned of a catastrophe in the city."
+    },
+    {
+     "headline": "Indonesia's police wiretap scandal widens as rival rallies hit Jakarta",
+     "people": [
+      {
+       "name": "Prabowo Subianto",
+       "role": "President of Indonesia"
+      },
+      {
+       "name": "Joko Widodo",
+       "role": "Former president of Indonesia"
+      },
+      {
+       "name": "Listyo Sigit Prabowo",
+       "role": "Former national police chief, arrested suspect"
+      },
+      {
+       "name": "Said Iqbal",
+       "role": "Labour Party chair and presidential adviser"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens"
+      },
+      {
+       "name": "Reuters (via The Star)",
+       "url": "https://www.thestar.com.my/news/world/2026/11/07/indonesian-workers-rally-for-prabowo-as-women-march-against-president"
+      }
+     ],
+     "spoken": "In Indonesia, the scandal over alleged police wiretapping of President Prabowo Subianto keeps growing. Police have now named a fourth suspect, after arresting a former national police chief earlier this week. On Saturday in Jakarta, hundreds of workers rallied for the president, while hundreds of women marched against his policies. The case has widened the split between Prabowo and former President Joko Widodo, and it's weighing on investor confidence.",
+     "summary": "Indonesian police named a fourth suspect, a senior police IT official, in the alleged illegal wiretapping of President Prabowo Subianto, after arresting former police chief Listyo Sigit Prabowo and two other generals earlier in the week. On Saturday, hundreds of workers rallied in Jakarta in support of the president, while hundreds of women marched against his policies, including the costly free-meal program. The scandal has deepened the split between Prabowo and former President Joko Widodo.",
+     "whyItMatters": "The case is shaking trust between Indonesia's political camps at a time of weakening investor confidence. Lawmakers are also weighing an inquiry into the eligibility of Vice President Gibran Rakabuming Raka, Widodo's son."
+    },
+    {
+     "headline": "Turkey ratifies defense pact with Saudi Arabia and Pakistan",
+     "people": [
+      {
+       "name": "Recep Tayyip Erdogan",
+       "role": "President of Turkey"
+      },
+      {
+       "name": "Mohammed bin Salman",
+       "role": "Crown prince of Saudi Arabia"
+      },
+      {
+       "name": "Shehbaz Sharif",
+       "role": "Prime minister of Pakistan"
+      }
+     ],
+     "sources": [
+      {
+       "name": "AP (via DTN)",
+       "url": "https://www.dtnpf.com/agriculture/web/ag/news/world-policy/article/2026/11/06/turkish-lawmakers-approve-3-nation"
+      },
+      {
+       "name": "The New Arab",
+       "url": "https://www.newarab.com/news/turkeys-parliament-ratifies-mecca-pact"
+      }
+     ],
+     "spoken": "Turkey's parliament has approved a mutual defense pact with Saudi Arabia and Pakistan. Under the deal, an attack on one country counts as an attack on all three. It links NATO's second biggest army and a nuclear-armed Pakistan with Saudi Arabia, which is looking for security partners beyond the United States. Turkish officials say the pact is defensive and not aimed at Iran.",
+     "summary": "Turkey's parliament approved the Mecca Joint Defense Agreement 279 to 119, under which an attack on Turkey, Saudi Arabia or Pakistan counts as an attack on all three. The 10-year pact, signed in August, also covers intelligence sharing and defense industry ties, and any Turkish troop deployment would need separate approval. Turkish officials say it does not target Iran or any other country.",
+     "whyItMatters": "It ties NATO's second-largest army and the Muslim world's only nuclear-armed state to Saudi Arabia, as Riyadh seeks partners beyond the US amid Houthi attacks and the Iran war. Syria has said it is discussing joining."
+    },
+    {
+     "headline": "UK's Burnham seeks to rework Chagos deal after US pushback",
+     "people": [
+      {
+       "name": "Andy Burnham",
+       "role": "UK prime minister"
+      },
+      {
+       "name": "Navin Ramgoolam",
+       "role": "Prime minister of Mauritius"
+      },
+      {
+       "name": "Wes Streeting",
+       "role": "UK defence secretary"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Guardian (via AOL)",
+       "url": "https://www.aol.com/articles/burnham-wants-recast-chagos-islands-161748000.html"
+      },
+      {
+       "name": "ITV News",
+       "url": "https://www.itv.com/news/2026-11-05/andy-burnham-wants-progress-on-chagos-islands-stalemate-by-the-end-of-the-year"
+      }
+     ],
+     "spoken": "British Prime Minister Andy Burnham says he wants to rework the deal to hand the Chagos Islands to Mauritius, after President Trump called it a terrible deal. The islands include Diego Garcia, a key US and British military base. Burnham suggested a setup like the US agreement with Denmark over Greenland. Britain and Mauritius say they want progress by the end of the year.",
+     "summary": "Prime Minister Andy Burnham said Britain wants to \"recast\" its deal to hand the Chagos Islands to Mauritius, after Trump called it \"a terrible deal.\" He suggested the US-Denmark arrangement on Greenland could be a model for keeping the joint US-UK base on Diego Garcia secure. After meeting Mauritian Prime Minister Navin Ramgoolam, both sides agreed to aim for progress by year's end; Britain has paused payments to Mauritius in the meantime.",
+     "whyItMatters": "The standoff shows how US objections can stall a long-negotiated deal over Mauritius's sovereignty claim, and the future of a base that is central to US and UK operations in the region."
+    }
+   ],
+   "title": "World"
+  },
+  {
+   "key": "econ",
+   "stories": [
+    {
+     "headline": "US added 165,000 jobs in October, far above forecasts",
+     "people": [
+      {
+       "name": "Collin Martin",
+       "role": "Analyst, Charles Schwab"
+      },
+      {
+       "name": "Brian Jacobsen",
+       "role": "Analyst, Annex Wealth Management"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+      },
+      {
+       "name": "Charles Schwab",
+       "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+      }
+     ],
+     "spoken": "The US job market came in much stronger than expected. Employers added 165,000 jobs in October, more than twice what economists forecast, and the unemployment rate dipped to 4.1 percent. But pay rose only about 3 percent over the year, slower than inflation, so paychecks are buying less.",
+     "summary": "Employers added 165,000 jobs in October, well above the roughly 65,000 economists expected, and the unemployment rate fell to 4.1% from 4.2%. August and September were revised up by a combined 84,000 jobs. Average hourly pay rose 3.1% from a year ago, below inflation of 3.7%, meaning real wages are falling.",
+     "whyItMatters": "The strong hiring makes it more likely the Federal Reserve raises rates to fight inflation rather than cutting them. Workers are still losing ground to prices."
+    },
+    {
+     "headline": "Markets now see a Fed rate hike in December as likely",
+     "people": [
+      {
+       "name": "Peter Cardillo",
+       "role": "Analyst, Spartan Capital Securities"
+      },
+      {
+       "name": "Susannah Streeter",
+       "role": "Analyst, Wealth Club"
+      },
+      {
+       "name": "Collin Martin",
+       "role": "Analyst, Charles Schwab"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html"
+      },
+      {
+       "name": "Charles Schwab",
+       "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+      }
+     ],
+     "spoken": "Because of that strong jobs report, investors now think the Federal Reserve will probably raise interest rates in December. Market odds of a hike jumped to about three in four. Bond yields and the dollar rose. The next big clue comes Tuesday, when October's inflation numbers are released.",
+     "summary": "After the jobs report, traders raised the odds of a December Federal Reserve rate hike to roughly three in four, up from about 60% to 70% before. The 10-year Treasury yield rose to about 4.87% and the dollar gained 0.7%. October inflation data comes out Tuesday.",
+     "whyItMatters": "A hike would raise borrowing costs for mortgages, car loans and businesses, and a strong dollar affects emerging markets that borrow in dollars."
+    },
+    {
+     "headline": "Stocks end worst week since June despite Friday tech rebound",
+     "people": [],
+     "sources": [
+      {
+       "name": "Alain Guillot market recap",
+       "url": "https://www.alainguillot.com/stock-market-recap-november-6-2026/"
+      },
+      {
+       "name": "Charles Schwab",
+       "url": "https://www.schwab.com/learn/story/stock-market-update-open"
+      }
+     ],
+     "spoken": "Wall Street just had its worst week since June. Tech stocks bounced back on Friday, but not enough to make up for Thursday, when the Nasdaq fell about 5 and a half percent. For the week, the Nasdaq lost 3.4 percent. Investors are worried the new Democratic Congress could put limits on data centers and slow spending on artificial intelligence.",
+     "summary": "The Nasdaq rose 1.1% and the S&P 500 0.3% on Friday as chip stocks bounced, while the Dow fell 0.4%. For the week, the Nasdaq lost 3.4% and the S&P 500 2.7%, their worst since June, after a Thursday sell-off in which the Nasdaq fell about 5.5%. Investors worry that Democratic wins could bring limits on data center building and slow AI spending.",
+     "whyItMatters": "AI-related stocks have driven much of the market's gains, so doubts about AI spending hit retirement accounts and the wider economy. DraftKings fell over 25% after missing earnings."
+    },
+    {
+     "headline": "Oil heads for biggest weekly drop in years on hopes the Iran war eases",
+     "people": [],
+     "sources": [
+      {
+       "name": "JournalArta",
+       "url": "https://journalarta.com/en/2026/11/06/oil-prices-sharp-weekly-fall-us-midterm-elections/"
+      },
+      {
+       "name": "Alain Guillot market recap",
+       "url": "https://www.alainguillot.com/stock-market-recap-november-6-2026/"
+      }
+     ],
+     "spoken": "Oil prices are heading for one of their biggest weekly drops in years. Brent crude, the global benchmark, fell below 100 dollars a barrel and is down about 16 percent for the week. Traders are betting the midterm results make it more likely the Iran war winds down. But new tanker attacks keep the risk of supply problems alive.",
+     "summary": "Brent crude traded around $97 to $98 a barrel Friday and was headed for a weekly fall of about 16%, possibly its steepest since early 2020, falling below $100. Prices dropped after the US midterms raised hopes the Iran conflict could wind down. New tanker attacks in the Gulf briefly pushed Brent back near $100.",
+     "whyItMatters": "Cheaper oil would ease inflation and fuel costs worldwide, but attacks in Hormuz keep supply risks alive."
+    },
+    {
+     "headline": "Consumer sentiment rises to three-month high but stays low",
+     "people": [
+      {
+       "name": "Joanne Hsu",
+       "role": "Director, University of Michigan Surveys of Consumers"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Floor Daily",
+       "url": "https://www.floordaily.net/flooring-news/consumer-sentiment-rose-6-3-to-51-in-early-november/"
+      },
+      {
+       "name": "CollisionWeek",
+       "url": "https://collisionweek.com/2026/11/06/consumer-sentiment-rises-6-3-three-month-high-preliminary-november-reading/"
+      }
+     ],
+     "spoken": "Americans feel a little better about the economy, but not much. The University of Michigan's consumer sentiment index rose to 51, its highest since August. People expect slightly lower inflation over the next year, about 4.3 percent. But more than half still say high prices are hurting their standard of living.",
+     "summary": "The University of Michigan's early November consumer sentiment index rose about 6% to 51, its highest since August but flat from a year ago. Year-ahead inflation expectations fell to 4.3% from 4.7%. About 57% of people said high prices were hurting their living standards.",
+     "whyItMatters": "Americans remain gloomy about the cost of living, the issue that shaped the midterms, even as inflation fears ease slightly."
+    }
+   ],
+   "title": "Economy & Markets"
+  }
+ ],
+ "spoken": {
+  "intro": "Good morning, Alexa! It's Saturday, November 7th, and here's your 9AM Brief. The big story at home: President Trump has named Stephen Miller as his new chief of staff after Republicans lost both houses of Congress. Overseas, the Iran war flared again around the Strait of Hormuz, and in Israel, Gadi Eisenkot is close to getting the first shot at replacing Benjamin Netanyahu. And on the economy, a surprisingly strong jobs report has markets betting on a Federal Reserve rate hike next month.",
+  "outro": "That's your brief for today. Enjoy your Saturday, Alexa, and I'll talk to you tomorrow morning."
+ }
+}

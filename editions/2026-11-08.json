@@ -1,0 +1,755 @@
+{
+ "covers": "Covers Nov 7, 9:00 AM – Nov 8, 9:00 AM CT",
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T14:57:20Z",
+ "overview": [
+  "Trump ordered the Justice Department to investigate Democrats over impeachment threats, as Democrats prepare to take both chambers in January.",
+  "The US widened its Iran blockade to land routes and disabled a cargo ship, even as Trump says Qatar-led talks are making progress.",
+  "Israel's president picked Gadi Eisenkot over Netanyahu to try to form a government.",
+  "Russia hit Kyiv with a heavy strike days before US-brokered talks in Abu Dhabi on Tuesday."
+ ],
+ "sections": [
+  {
+   "key": "us",
+   "stories": [
+    {
+     "headline": "Trump orders Justice Department to investigate Democrats over impeachment threats",
+     "people": [
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "Robert Garcia",
+       "role": "Likely incoming House Oversight Committee chair (D-Calif.)"
+      },
+      {
+       "name": "Elissa Slotkin",
+       "role": "Democratic senator, Michigan"
+      },
+      {
+       "name": "Todd Blanche",
+       "role": "Attorney General"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people"
+      },
+      {
+       "name": "The Philippine Star (AFP)",
+       "url": "https://www.philstar.com/world/2026/11/08/2568740/trump-orders-justice-department-probe-democrats-seeking-impeachment"
+      }
+     ],
+     "spoken": "President Trump told the Justice Department on Saturday to investigate Democrats who have talked about impeaching members of his cabinet. He called it extortion and a criminal act, but offered no evidence. Democrats won both the House and the Senate on Tuesday, and they have promised investigations into Trump family businesses, immigration enforcement, Defense Secretary Pete Hegseth and Attorney General Todd Blanche. Expect a lot of fights between Congress and the White House, some of them in court.",
+     "summary": "In a Truth Social post on Saturday, President Trump told the Justice Department to look into Democrats who have threatened to impeach members of his cabinet, calling it \"extortion\" and a \"criminal act.\" He gave no evidence and singled out Sen. Elissa Slotkin. Democrats, who won both chambers on Tuesday, have promised investigations of Trump family business dealings, ICE, Defense Secretary Pete Hegseth and Attorney General Todd Blanche.",
+     "whyItMatters": "It signals a tense two years ahead: once Democrats take over in January they can issue subpoenas and hold hearings, and the White House may push back in court."
+    },
+    {
+     "headline": "Alaska and Mississippi Senate races still uncounted as Democrats hold 54 seats",
+     "people": [
+      {
+       "name": "Scott Colom",
+       "role": "Democratic Senate candidate, Mississippi"
+      },
+      {
+       "name": "Cindy Hyde-Smith",
+       "role": "Republican senator, Mississippi"
+      },
+      {
+       "name": "Mary Peltola",
+       "role": "Democratic Senate candidate, Alaska; former congresswoman"
+      },
+      {
+       "name": "Dan Sullivan",
+       "role": "Republican senator, Alaska"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+      },
+      {
+       "name": "Mississippi Free Press",
+       "url": "https://www.mississippifreepress.org/liveblog-mississippis-2026-u-s-senate-election-results/"
+      },
+      {
+       "name": "Local News Live / Gray",
+       "url": "https://www.localnewslive.com/2026/11/07/alaska-senate-race-remains-undecided-days-after-election-day/"
+      }
+     ],
+     "spoken": "Two Senate races are still being counted. Democrats already have 54 seats to the Republicans' 44. In Mississippi, Democrat Scott Colom leads Senator Cindy Hyde-Smith by about 2,600 votes, and counties have until November 13 to certify. In Alaska, former congresswoman Mary Peltola leads Senator Dan Sullivan by about 640 votes, and the ranked-choice count can't begin until November 18. If Democrats win both, they'd have 56 seats.",
+     "summary": "Democrats have 54 Senate seats to Republicans' 44 after flipping seven, with two races still open. In Mississippi, Democrat Scott Colom leads Sen. Cindy Hyde-Smith by 2,574 votes with about 97% counted; mailed ballots can arrive until Nov. 10 and counties must certify by Nov. 13. In Alaska, Democrat Mary Peltola leads Sen. Dan Sullivan by 637 votes with 74% counted, and ranked-choice tabulation can't start before Nov. 18.",
+     "whyItMatters": "Wins in both would give Democrats a 56-seat majority, more room to confirm or block nominees. Mississippi has no formal recount process, so a legal fight is possible."
+    },
+    {
+     "headline": "Schumer faces pushback from new Democratic senators but appears to have the votes",
+     "people": [
+      {
+       "name": "Chuck Schumer",
+       "role": "Senate Democratic leader"
+      },
+      {
+       "name": "Abdul El-Sayed",
+       "role": "Senator-elect, Michigan"
+      },
+      {
+       "name": "Chris Van Hollen",
+       "role": "Democratic senator, Maryland"
+      },
+      {
+       "name": "Cory Booker",
+       "role": "Democratic senator, New Jersey"
+      }
+     ],
+     "sources": [
+      {
+       "name": "TIME",
+       "url": "https://time.com/article/2026/11/06/schumer-has-the-votes-senate-majority-leader/"
+      },
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role"
+      }
+     ],
+     "spoken": "Chuck Schumer is on track to become Senate majority leader again, but not everyone in his party is happy about it. Several incoming Democratic senators, like Abdul El-Sayed of Michigan, say they won't support him, and the progressive group Indivisible wants new leadership. Schumer is 75, and he says he'll be re-elected. He only needs a majority of his own caucus, and so far nobody has stepped up to run against him.",
+     "summary": "Several incoming Democratic senators, including Abdul El-Sayed of Michigan, Adam Hamilton of Kansas and Troy Jackson of Maine, say they won't back Chuck Schumer as majority leader, and progressive group Indivisible has called for new leadership. Schumer, 75, says he will be re-elected leader. He needs only a simple majority of his own caucus, and no senator has stepped up to challenge him.",
+     "whyItMatters": "Who leads the new Senate majority shapes how hard Democrats push against Trump on nominees, spending and oversight, and shows the party's generational split."
+    },
+    {
+     "headline": "Jeffries set to become first Black House speaker as Democrats near biggest majority since 2008",
+     "people": [
+      {
+       "name": "Hakeem Jeffries",
+       "role": "House Democratic leader, New York"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+      }
+     ],
+     "spoken": "In the House, Democrats had 254 seats to 162 for Republicans as of Saturday, with 19 races left to call. That's on pace for their biggest majority since 2008. Hakeem Jeffries of New York is expected to become speaker with no serious rival, and he would be the first Black speaker. Some progressives want someone else, but a big majority gives Jeffries plenty of room to work.",
+     "summary": "As of Saturday, Democrats had won 254 House seats to Republicans' 162, with 19 races uncalled, putting them on track for their largest majority since 2008. Hakeem Jeffries of New York has no serious challenger for speaker and would be the first Black person in the job. Some progressives have pushed back, and an online petition urging a different speaker passed 980,000 signatures.",
+     "whyItMatters": "A large majority gives Jeffries more room to pass bills and run investigations without relying on every member of his caucus."
+    },
+    {
+     "headline": "Trump offers UFC chief Dana White the White House press secretary job",
+     "people": [
+      {
+       "name": "Dana White",
+       "role": "UFC CEO"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      },
+      {
+       "name": "Karoline Leavitt",
+       "role": "Former White House press secretary"
+      }
+     ],
+     "sources": [
+      {
+       "name": "TheWrap",
+       "url": "https://www.thewrap.com/media-platforms/politics/trump-names-dana-white-ufc-press-secretary/"
+      },
+      {
+       "name": "Complex",
+       "url": "https://www.complex.com/sports/a/treyalston/dana-white-trump-press-secretary-offer"
+      }
+     ],
+     "spoken": "Here's an unusual one. On Saturday, President Trump said he wanted Dana White, the head of the UFC, to be his new press secretary. He even suggested some famous fighters as assistants. CNN reported that White said no, and one aide said Trump was joking. The job has been empty since mid-October, so the White House still has no main spokesperson.",
+     "summary": "Trump said on Truth Social on Saturday that he wanted UFC CEO Dana White to be his press secretary and named several fighters as possible assistants, ending with \"Dana, please take the job!\" CNN reported that White turned it down, and one aide said Trump was joking. The job has been empty since mid-October, after Karoline Leavitt left and her replacement, Katie Zacharia, lasted only days.",
+     "whyItMatters": "The White House still has no main spokesperson as it enters a tougher stretch with a Democratic Congress."
+    }
+   ],
+   "title": "United States"
+  },
+  {
+   "key": "local",
+   "stories": [
+    {
+     "headline": "Democrat Eileen Laubacher keeps lead over Lauren Boebert in Colorado",
+     "people": [
+      {
+       "name": "Eileen Laubacher",
+       "role": "Democratic House candidate, Colorado's 4th District"
+      },
+      {
+       "name": "Lauren Boebert",
+       "role": "Republican congresswoman, Colorado"
+      },
+      {
+       "name": "Scott Gessler",
+       "role": "Boebert campaign lawyer, former Colorado secretary of state"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Denver Gazette",
+       "url": "https://www.denvergazette.com/2026/11/06/trailing-laubacher-boebert-campaign-alleges-unusual-voting-patterns/"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+      }
+     ],
+     "spoken": "In Colorado, Congresswoman Lauren Boebert is still trailing. Her opponent is Eileen Laubacher, a Democrat and retired Navy rear admiral who also worked on the National Security Council. Laubacher leads by about 3,200 votes with almost all ballots counted, in the most conservative district in the state. Boebert's lawyer says they're looking into unusual voting patterns, but hasn't said what they are. The lead is too big for an automatic recount.",
+     "summary": "Democrat Eileen Laubacher, a retired Navy rear admiral and former National Security Council official, leads Republican Rep. Lauren Boebert by 3,172 votes (48.8% to 47.9%) in Colorado's 4th District, the state's most conservative, with about 97% counted. Boebert's lawyer, former Secretary of State Scott Gessler, says the campaign is looking into \"very unusual voting patterns\" but gave no details. The gap is well above the roughly 923 votes that would trigger an automatic recount; counties have until Nov. 13 to finish.",
+     "whyItMatters": "Boebert is one of the best-known Republicans in the House, and losing a seat this safe would show how far the Democratic wave reached."
+    },
+    {
+     "headline": "Kansas governor's race heads into hand-count audit with Democrat Holscher ahead",
+     "people": [
+      {
+       "name": "Cindy Holscher",
+       "role": "Democratic candidate for governor, Kansas; state senator"
+      },
+      {
+       "name": "Ty Masterson",
+       "role": "Republican candidate for governor; Kansas Senate president"
+      },
+      {
+       "name": "Scott Schwab",
+       "role": "Kansas secretary of state"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo News (Kansas)",
+       "url": "https://www.yahoo.com/news/politics/articles/returns-expand-holscher-lead-kansas-183643890.html"
+      },
+      {
+       "name": "KWCH",
+       "url": "https://www.kwch.com/2026/11/05/kansas-starts-close-race-audit-governor-secretary-state-attorney-general-races/"
+      }
+     ],
+     "spoken": "Kansas still doesn't have an official governor-elect. Democrat Cindy Holscher, a state senator from Overland Park, leads Republican Ty Masterson, the state Senate president, by about 7,000 votes. Counties are now hand-checking a sample of ballots in a required audit. Holscher has declared victory, and a source close to Masterson says he won't ask for a recount if her lead holds.",
+     "summary": "Democrat Cindy Holscher, a state senator from Overland Park, leads Kansas Senate President Ty Masterson by just over 7,000 votes out of about 1.1 million. A required close-race audit is hand-checking ballots from 10% of precincts in all 105 counties. Holscher has claimed victory; a source close to Masterson said he would not seek a recount if her lead holds. Counties must canvass by Nov. 16, and recount requests are due Nov. 17.",
+     "whyItMatters": "The result decides who leads Kansas for the next four years, and the audit is a test of how the state handles a very close count."
+    },
+    {
+     "headline": "Admiral fired by Hegseth wins Nancy Mace's old seat in South Carolina",
+     "people": [
+      {
+       "name": "Nancy Lacore",
+       "role": "Democratic congresswoman-elect, South Carolina; retired Navy admiral"
+      },
+      {
+       "name": "Jenny Costa Honeycutt",
+       "role": "Republican candidate, South Carolina's 1st District"
+      },
+      {
+       "name": "Pete Hegseth",
+       "role": "Defense Secretary"
+      },
+      {
+       "name": "Nancy Mace",
+       "role": "Republican congresswoman, South Carolina"
+      }
+     ],
+     "sources": [
+      {
+       "name": "WTOC",
+       "url": "https://www.wtoc.com/2026/11/04/lacore-claims-sc-01-victory-says-costa-honeycutt-conceded-race/"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+      }
+     ],
+     "spoken": "In South Carolina, the race for Nancy Mace's old seat was called Friday evening for Democrat Nancy Lacore. Lacore is a retired admiral who used to lead the Navy Reserve, and she was removed from her post by Defense Secretary Pete Hegseth last year. She won by about one point in a district Trump carried by 13 points two years ago. People are paying attention because Hegseth fired her, and now she's headed to Congress.",
+     "summary": "The AP called South Carolina's 1st District for Democrat Nancy Lacore on Friday evening; she won about 49.7% to 48.6%. Lacore, a retired admiral and former chief of the Navy Reserve, was removed from her post by Defense Secretary Pete Hegseth in 2025 and ran for Congress afterward. The seat opened when Rep. Nancy Mace ran for governor; Trump carried the district by 13 points two years ago.",
+     "whyItMatters": "Her win in a district Trump carried easily shows how far the Democratic wave reached, and her firing by Hegseth makes her a symbol of the fight over the Pentagon's leadership."
+    },
+    {
+     "headline": "Keisha Lance Bottoms builds transition as Georgia's first Black woman governor-elect",
+     "people": [
+      {
+       "name": "Keisha Lance Bottoms",
+       "role": "Georgia governor-elect; former Atlanta mayor"
+      },
+      {
+       "name": "Brian Kemp",
+       "role": "Republican governor of Georgia"
+      },
+      {
+       "name": "Tyler Perry",
+       "role": "Filmmaker, Bottoms transition team member"
+      }
+     ],
+     "sources": [
+      {
+       "name": "FOX 5 Atlanta",
+       "url": "https://www.fox5atlanta.com/news/timeline-key-transition-dates-governor-elect-bottoms"
+      },
+      {
+       "name": "Yahoo News",
+       "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+      }
+     ],
+     "spoken": "In Georgia, Keisha Lance Bottoms, the former mayor of Atlanta, is getting ready to take over as governor. She won by nine points and is the first Black woman ever elected governor in the United States. On Friday she added filmmaker Tyler Perry to her transition team, and she's working on plans like expanding Medicaid and raising teacher pay. She takes office on January 11.",
+     "summary": "Former Atlanta mayor Keisha Lance Bottoms, who won Georgia's governor's race by nine points and became the first Black woman elected governor in US history, is setting up her transition. She named filmmaker Tyler Perry to her transition team on Friday and has policy committees reviewing promises like Medicaid expansion and teacher pay. She takes office Jan. 11, and outgoing Gov. Brian Kemp has offered full cooperation.",
+     "whyItMatters": "Georgia is a key swing state, and her win was the largest governor's margin there in 16 years, making her one of the most watched new governors."
+    },
+    {
+     "headline": "Missouri: after voters keep abortion rights, both sides plan their next moves",
+     "people": [
+      {
+       "name": "Margaret Baum",
+       "role": "Chief medical officer, Planned Parenthood Great Rivers"
+      },
+      {
+       "name": "Tom Estes",
+       "role": "Pastor, Her Health, Her Future (Yes on 3 campaign)"
+      },
+      {
+       "name": "Mike Kehoe",
+       "role": "Republican governor of Missouri"
+      },
+      {
+       "name": "Shira Berkowitz",
+       "role": "Policy director, PROMO Missouri"
+      }
+     ],
+     "sources": [
+      {
+       "name": "KCUR",
+       "url": "https://www.kcur.org/health/2026-11-05/missouri-abortion-ban-amendment-3-planned-parenthood"
+      },
+      {
+       "name": "KOMU",
+       "url": "https://www.komu.com/news/elections/missouri-voters-reject-amendment-3-keeping-abortion-protections-in-place/article_291bce49-6fa4-4dd7-9fa7-2f41ccc55fdf.html"
+      }
+     ],
+     "spoken": "Closer to home in Missouri, voters turned down Amendment 3 by about 55 to 45 percent. That measure would have undone the abortion-rights amendment voters passed in 2024 and brought back a near-total ban. Planned Parenthood says it will now focus on expanding access, while still fighting some state clinic rules in court. Supporters of the ban say this was one battle in a longer fight, so expect more action from the legislature.",
+     "summary": "Missouri voters rejected Amendment 3 by about 55% to 45%. The Republican-backed measure would have repealed the 2024 abortion-rights amendment, brought back a near-total ban and written limits on gender-transition care for minors into the constitution. Planned Parenthood says it will now work to expand access while it keeps fighting clinic rules in court, and backers of the measure say they will keep trying to outlaw abortion.",
+     "whyItMatters": "It is the second time in two years Missouri voters backed abortion rights, but the fight will move to the courts and the Republican-led legislature."
+    }
+   ],
+   "title": "States & Local"
+  },
+  {
+   "key": "world",
+   "stories": [
+    {
+     "headline": "US expands Iran blockade to land routes and disables cargo ship",
+     "people": [
+      {
+       "name": "Brad Cooper",
+       "role": "Admiral, head of US Central Command"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "US President"
+      },
+      {
+       "name": "Abbas Araghchi",
+       "role": "Iran's foreign minister"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes"
+      },
+      {
+       "name": "Gulf News",
+       "url": "https://gulfnews.com/world/mena/us-strikes-cargo-ship-in-gulf-of-oman-amid-iran-blockade-enforcement-1.500739942"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran"
+      }
+     ],
+     "spoken": "Let's start with Iran. The US military's Central Command has created a new task force to block Iran's supply routes over land and across the Caspian Sea, adding to its blockade at sea. It also disabled a cargo ship in the Gulf of Oman that it says tried to break the blockade. That follows what President Trump called minor strikes on Iran's Qeshm Island on Friday night. At the same time, Trump says talks through Qatar are making progress, so it's pressure and diplomacy at once.",
+     "summary": "US Central Command set up Task Force Iron Gate, about 20 people based in Tampa, to stop Iran from moving weapons, dual-use technology and sanctioned goods over land borders and the Caspian Sea. It also disabled the St. Kitts-flagged cargo ship M/V Huda in the Gulf of Oman, saying it tried to break the naval blockade. This came after Trump confirmed \"minor\" strikes on Iran's Qeshm Island Friday night, while saying talks mediated by Qatar are making progress.",
+     "whyItMatters": "The US is tightening economic pressure even as it talks, which keeps shipping through Hormuz and oil prices at risk and could pull in neighbors like Pakistan, Iraq and Caspian states."
+    },
+    {
+     "headline": "Israel's president picks Eisenkot, not Netanyahu, to form next government",
+     "people": [
+      {
+       "name": "Gadi Eisenkot",
+       "role": "Yashar party leader, former military chief"
+      },
+      {
+       "name": "Benjamin Netanyahu",
+       "role": "Prime Minister of Israel"
+      },
+      {
+       "name": "Isaac Herzog",
+       "role": "President of Israel"
+      },
+      {
+       "name": "Ahmad Tibi",
+       "role": "Senior Joint List lawmaker"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+      },
+      {
+       "name": "ABC News (Australia)",
+       "url": "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472"
+      }
+     ],
+     "spoken": "In Israel, President Isaac Herzog has chosen Gadi Eisenkot, a former army chief, to try to form the next government instead of Prime Minister Benjamin Netanyahu. Sixty-seven lawmakers backed Eisenkot, compared with 46 for Netanyahu. Eisenkot gets 28 days to build a coalition, but he's said he won't govern with Arab-led parties, which makes the math tough. If he fails, Israel could head to another election.",
+     "summary": "President Isaac Herzog chose Gadi Eisenkot, former army chief and leader of the Yashar party, to try to form a government after the Oct. 27 election left no side with a majority. Sixty-seven lawmakers, including Arab-led parties, recommended Eisenkot; 46 backed Prime Minister Benjamin Netanyahu. Eisenkot gets the formal mandate Sunday and has 28 days, plus a possible 14-day extension, but has ruled out governing with Arab-led parties.",
+     "whyItMatters": "It is the clearest sign yet that Netanyahu's long hold on power could end, which would affect Gaza, Lebanon and the Iran war. But Eisenkot's path to 61 seats is hard and could fail."
+    },
+    {
+     "headline": "Russia hits Kyiv with heavy strike days before US-brokered talks",
+     "people": [
+      {
+       "name": "Volodymyr Zelenskyy",
+       "role": "President of Ukraine"
+      },
+      {
+       "name": "Vitali Klitschko",
+       "role": "Mayor of Kyiv"
+      },
+      {
+       "name": "Rustem Umerov",
+       "role": "Ukraine's lead negotiator"
+      },
+      {
+       "name": "Kirill Dmitriev",
+       "role": "Putin's special envoy"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents"
+      },
+      {
+       "name": "Outlook India",
+       "url": "https://www.outlookindia.com/international/russia-missile-attack-kyiv-ukraine-peace-talks-abu-dhabi-russia-ukraine-war"
+      }
+     ],
+     "spoken": "In Ukraine, Russia launched a big overnight attack into Saturday. President Volodymyr Zelenskyy says Russia used 172 drones and 36 ballistic missiles, and only four of the missiles were shot down. At least two people were killed, and power sites and a key bridge in Kyiv were hit. This comes just days before US-brokered talks between Russia and Ukraine in Abu Dhabi on Tuesday.",
+     "summary": "Russia fired 172 drones and 36 ballistic missiles at Ukraine overnight into Saturday, according to President Zelenskyy, who said only four missiles were shot down. At least two people were killed, energy sites in five regions were hit, and a key bridge in Kyiv was damaged. The attack came days before US-brokered Russia-Ukraine talks set for Tuesday in Abu Dhabi, which Trump has said could produce a deal soon.",
+     "whyItMatters": "Hits on power and heat before winter raise humanitarian risks, and Zelenskyy says Ukraine is short on Patriot interceptors, putting pressure on Washington and Europe ahead of the talks."
+    },
+    {
+     "headline": "Yemen war escalates: 33 reported killed near Sanaa, missiles fired at Riyadh",
+     "people": [
+      {
+       "name": "Turki al-Maliki",
+       "role": "Saudi-led coalition spokesman"
+      },
+      {
+       "name": "Yahya Saree",
+       "role": "Houthi military spokesman"
+      },
+      {
+       "name": "Anees Alasbahi",
+       "role": "Houthi health ministry spokesman"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+      },
+      {
+       "name": "RTÉ",
+       "url": "https://www.rte.ie/news/world/2026/1108/1598395-33-dead-yemen/"
+      }
+     ],
+     "spoken": "Yemen's war is getting worse. The Houthis, the Iran-aligned group that controls the capital Sanaa, say Saudi-led airstrikes killed 33 people near Sanaa on Saturday, including 13 children. That hasn't been independently confirmed. On Sunday, the Saudi-led coalition said it shot down three Houthi missiles aimed at Riyadh and the Eastern Province. The UN says more than 1,600 people have died since a truce broke down in July.",
+     "summary": "Houthi health officials said Saudi-led coalition airstrikes on al-Shariya village near Sanaa killed 33 people, including 13 children, on Saturday; the claims could not be independently verified. On Sunday, the coalition said it intercepted three Houthi ballistic missiles fired toward Riyadh and the Eastern Province. Government forces are pushing an offensive called \"Dawn of Yemen\" to retake Houthi-held territory.",
+     "whyItMatters": "The UN says more than 1,600 people have been killed and about 300,000 displaced since the 2022 truce broke down in July, and attacks on Saudi oil sites add risk to energy markets already hit by the Iran war."
+    },
+    {
+     "headline": "Gunman kills six in Kraków's main square; Poland calls it terrorism",
+     "people": [
+      {
+       "name": "Donald Tusk",
+       "role": "Prime Minister of Poland"
+      },
+      {
+       "name": "Marcin Kierwiński",
+       "role": "Interior Minister of Poland"
+      },
+      {
+       "name": "Karol Nawrocki",
+       "role": "President of Poland"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/08/what-we-know-about-the-krakow-shooting-that-left-six-people-dead"
+      }
+     ],
+     "spoken": "In Poland, a gunman opened fire on Kraków's main square on Saturday afternoon. Six people were killed and 16 were hurt, including two police officers. Police shot and arrested the 24-year-old suspect, and later found his parents and sister dead at his home. Prime Minister Donald Tusk called it terrorism, and officials say the man seemed drawn to far-right ideas. Poland is now in two days of national mourning.",
+     "summary": "A 24-year-old Polish man drove onto Kraków's Main Market Square on Saturday afternoon and opened fire, killing six people and wounding 16, including two police officers. Police shot and detained him, and later found his parents and sister dead at his home. Prime Minister Donald Tusk called it terrorism, and the interior minister said the suspect appeared fascinated by far-right ideas. Poland began two days of national mourning.",
+     "whyItMatters": "Mass shootings are very rare in Poland, an EU and NATO frontline state already on alert over violence and Russian sabotage, so the attack may shape debates on gun licensing and extremism."
+    },
+    {
+     "headline": "Winter storm floods about 70,000 tents in Gaza",
+     "people": [
+      {
+       "name": "Mahmoud Basal",
+       "role": "Gaza civil defense spokesman"
+      },
+      {
+       "name": "Mohammed Abu Salmiya",
+       "role": "Director, al-Shifa Medical Complex"
+      },
+      {
+       "name": "Mohammed Salha",
+       "role": "Palestinian NGO Network"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza"
+      },
+      {
+       "name": "Arab News",
+       "url": "https://www.arabnews.com/middle-east/heavy-rain-floods-tents-housing-gaza-displaced-people-aid-shortages-hamper-response-3010327"
+      }
+     ],
+     "spoken": "In Gaza, the first winter storm flooded about 70,000 tents in just 12 hours, according to local officials. Civil defense crews got around 1,500 calls for help, and the emergency room at al-Shifa hospital had to close for a few hours. Aid groups say Israel is still limiting tents and building materials, while Israel says it stepped up sanitation help. More than a million people are facing winter in tents.",
+     "summary": "The first winter storm flooded about 70,000 tents sheltering displaced Palestinians in 12 hours, according to Gaza's government media office, with about 1,500 distress calls to civil defense. The emergency room at al-Shifa hospital was out of service for about four hours. Local officials and aid groups say Israel is limiting tents, caravans and building materials; Israel's COGAT agency said it had increased sanitation help with international groups.",
+     "whyItMatters": "More than a million people face winter in tents, and aid groups say only a small share of the trucks agreed under the ceasefire carry humanitarian aid, a key test for the stalled reconstruction plan."
+    },
+    {
+     "headline": "Paraguay's ousted president under house arrest after bank collapse",
+     "people": [
+      {
+       "name": "Santiago Peña",
+       "role": "Former president of Paraguay"
+      },
+      {
+       "name": "Pedro Alliana",
+       "role": "New president of Paraguay"
+      },
+      {
+       "name": "Carlos Carvallo",
+       "role": "Former central bank head"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Al Jazeera",
+       "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in"
+      },
+      {
+       "name": "Euronews",
+       "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment"
+      }
+     ],
+     "spoken": "In Paraguay, the Senate removed President Santiago Peña over his ties to Ueno Bank, which collapsed this week and froze the savings of millions of people. His vice president, Pedro Alliana, has been sworn in. Prosecutors put Peña under house arrest and called him in for questioning on Saturday. It's a big warning about bank oversight, since state pension money was invested in that bank too.",
+     "summary": "Paraguay's Senate removed President Santiago Peña on Friday, 44 to 0 with one abstention, over his links to the collapse of Ueno Bank, which froze the accounts of millions of people. Vice President Pedro Alliana, 52, was sworn in, and prosecutors placed Peña under house arrest and called him in for questioning Saturday. At least 27 people face charges, and an arrest warrant was issued for the former central bank chief.",
+     "whyItMatters": "A bank failure that hit about two-thirds of adults, including about $355 million in state pension money, is a warning about weak financial oversight in a South American ally of Washington."
+    },
+    {
+     "headline": "Rival rallies in Jakarta as wiretap scandal splits Prabowo and Jokowi camps",
+     "people": [
+      {
+       "name": "Prabowo Subianto",
+       "role": "President of Indonesia"
+      },
+      {
+       "name": "Joko Widodo",
+       "role": "Former president of Indonesia"
+      },
+      {
+       "name": "Said Iqbal",
+       "role": "Labour Party chair and presidential adviser"
+      },
+      {
+       "name": "Listyo Sigit Prabowo",
+       "role": "Former national police chief, suspect"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Star (Reuters)",
+       "url": "https://www.thestar.com.my/news/world/2026/11/07/indonesian-workers-rally-for-prabowo-as-women-march-against-president"
+      },
+      {
+       "name": "ABC News (AP)",
+       "url": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412"
+      }
+     ],
+     "spoken": "And in Jakarta, there were rival rallies on Saturday. Hundreds of workers came out in support of President Prabowo Subianto, while hundreds of women marched against the government over forest fires, the free-meal program and a tax on sanitary products. All this comes during a wiretapping scandal, where police say senior officers, including a former police chief close to ex-president Joko Widodo, tried to spy on Prabowo. It's exposing a real split between the two camps.",
+     "summary": "Hundreds of workers led by Labour Party chair Said Iqbal, who also advises the president, rallied in Jakarta on Saturday in support of President Prabowo Subianto, while hundreds of women marched against the government over forest fires, the free-meal program and a tax on sanitary products. Police have named four senior officers, including a former national police chief seen as close to ex-president Joko Widodo, as suspects in an alleged plot to wiretap Prabowo. Earlier in the week the military moved thousands of troops into Jakarta, calling it routine.",
+     "whyItMatters": "The scandal shows a growing split between Prabowo and his predecessor, while protests over costly populist policies and weaker investor confidence put pressure on Southeast Asia's largest economy."
+    }
+   ],
+   "title": "World"
+  },
+  {
+   "key": "econ",
+   "stories": [
+    {
+     "headline": "Stocks post worst week since April 2025 as AI shares tumble",
+     "people": [
+      {
+       "name": "Jason Furman",
+       "role": "Economist"
+      },
+      {
+       "name": "Donald Trump",
+       "role": "President"
+      }
+     ],
+     "sources": [
+      {
+       "name": "The Hans India (IANS)",
+       "url": "https://www.thehansindia.com/business/us-markets-post-biggest-weekly-loss-since-april-2025-as-ai-fears-deepen-1140093"
+      },
+      {
+       "name": "ABC News (AP)",
+       "url": "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337"
+      }
+     ],
+     "spoken": "On Wall Street, it was a rough week. The S&P 500 dropped about 2.7 percent and the tech-heavy Nasdaq 100 fell almost 5 percent, the worst week since April of last year. Thursday alone erased about 3 trillion dollars in value. Investors are worried the new Democratic Congress could slow down data centers and add rules for artificial intelligence, and AI has been a big driver of the economy.",
+     "summary": "The S&P 500 fell 2.7% for the week ending Friday and the Nasdaq 100 dropped about 4.9%, the biggest weekly losses since April 2025, even with small gains on Friday. Thursday's sell-off wiped out about $3 trillion in S&P 500 value, and markets in South Korea and Taiwan fell more than 8% at one point. Investors worried the Democratic sweep could bring limits on data centers and new AI rules.",
+     "whyItMatters": "So much of US growth now rides on AI investment that a pullback there could hit the wider economy and retirement savings."
+    },
+    {
+     "headline": "Oil has its biggest weekly drop since 2020 on hopes for Iran deal",
+     "people": [
+      {
+       "name": "Janiv Shah",
+       "role": "Analyst, Rystad Energy"
+      },
+      {
+       "name": "Bob McNally",
+       "role": "President, Rapidan Energy Group"
+      }
+     ],
+     "sources": [
+      {
+       "name": "RTÉ",
+       "url": "https://www.rte.ie/news/business/2026/1106/1598252-world-oil-prices/"
+      },
+      {
+       "name": "FinanceFeeds",
+       "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+      }
+     ],
+     "spoken": "Oil prices had their biggest weekly drop since 2020. Brent crude, the global benchmark, fell about 16 percent to around 98 dollars a barrel. Traders are betting the election results will push the US toward ending the war with Iran. But attacks on tankers near the Strait of Hormuz are still happening, so analysts say prices could jump again.",
+     "summary": "Brent crude fell about 16% last week to around $98 a barrel, its steepest weekly fall since the start of the pandemic, and US crude fell about 13% to near $91. Traders bet that Republican midterm losses would push Washington toward ending the Iran war. Attacks on tankers near Hormuz kept prices from falling further.",
+     "whyItMatters": "Cheaper oil would ease inflation and gas prices, but analysts warn the war's supply problems have not gone away and fighting could resume."
+    },
+    {
+     "headline": "Voters want economic relief, but inflation and debt limit options",
+     "people": [
+      {
+       "name": "Scott Bessent",
+       "role": "Treasury Secretary"
+      },
+      {
+       "name": "Kevin Warsh",
+       "role": "Federal Reserve chair"
+      },
+      {
+       "name": "Russell Vought",
+       "role": "White House budget director"
+      },
+      {
+       "name": "Elizabeth Warren",
+       "role": "Democratic senator, Massachusetts"
+      }
+     ],
+     "sources": [
+      {
+       "name": "ABC News (AP)",
+       "url": "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337"
+      },
+      {
+       "name": "FinanceFeeds",
+       "url": "https://financefeeds.com/brent-crude-oil-price-98-32-saturday-week-ahead-us-iran-deal-bets-cpi-10-november-bull-105-bear-93/"
+      }
+     ],
+     "spoken": "Voters clearly want help with the cost of living, but there are no easy fixes. Prices are up 3.7 percent from a year ago, partly because of tariffs and the Iran war. Hiring is solid, with 165,000 jobs added last month and unemployment at 4.1 percent. The deficit is around 2 trillion dollars a year, so both parties face tough choices. The next inflation report comes out Tuesday.",
+     "summary": "An AP analysis says voters sent a clear message about the economy. Consumer prices are up 3.7% from a year ago, partly from tariffs and the Iran war, though Friday's report showed 165,000 jobs added and unemployment at 4.1%. Treasury Secretary Scott Bessent and budget director Russell Vought are preparing a spending-cut plan, while some Democrats want to restore lapsed health insurance subsidies.",
+     "whyItMatters": "With a roughly $2 trillion deficit and over $1 trillion a year in interest costs, both parties face hard trade-offs; the October inflation report on Tuesday is the next big test."
+    },
+    {
+     "headline": "Berkshire Hathaway profit dips as it ramps up buybacks under Greg Abel",
+     "people": [
+      {
+       "name": "Greg Abel",
+       "role": "CEO, Berkshire Hathaway"
+      },
+      {
+       "name": "Warren Buffett",
+       "role": "Chairman emeritus, Berkshire Hathaway"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance (Bloomberg)",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-operating-earnings-fall-130121017.html"
+      },
+      {
+       "name": "Forbes",
+       "url": "https://www.forbes.com/sites/bill_stone/2026/11/07/berkshire-hathaway-q3-earnings-miss-on-insurance-not-on-strategy/"
+      }
+     ],
+     "spoken": "Berkshire Hathaway, the giant company now run by Greg Abel after Warren Buffett, reported its results on Saturday. Operating profit fell about 6 percent to 12.7 billion dollars, mostly because its insurance businesses had a weaker quarter. It bought back about 9.6 billion dollars of its own stock, and it's now sitting on about 377 billion dollars in cash.",
+     "summary": "Berkshire Hathaway reported Saturday that third-quarter operating earnings fell 5.8% to $12.7 billion, mainly because its insurance businesses, including GEICO, did worse. It bought back about $9.6 billion of its own stock, its most this year, and its cash pile rose to $377.4 billion. Greg Abel became CEO at the start of 2026, with Warren Buffett now chairman emeritus.",
+     "whyItMatters": "Berkshire is often seen as a read on the broader US economy, and sitting on so much cash suggests it sees few good deals at today's prices."
+    },
+    {
+     "headline": "US presses China to deliver on trade pledges as tariff exclusions near expiry",
+     "people": [
+      {
+       "name": "Scott Bessent",
+       "role": "Treasury Secretary"
+      },
+      {
+       "name": "Jamieson Greer",
+       "role": "US Trade Representative"
+      },
+      {
+       "name": "He Lifeng",
+       "role": "Chinese Vice Premier"
+      }
+     ],
+     "sources": [
+      {
+       "name": "Briefs",
+       "url": "https://www.briefs.co/news/u-s-officials-press-china-to-deliver-on-busan-commitments/"
+      }
+     ],
+     "spoken": "On trade, Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer pressed China's vice premier to follow through on last year's trade deal. That means buying US farm goods and delivering rare earth minerals, which are key for electronics and defense. China pushed back with its own concerns about US trade limits. Some tariff exclusions run out on Tuesday, and Trump and China's leader Xi Jinping are expected to meet soon at the APEC summit.",
+     "summary": "Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer urged Chinese Vice Premier He Lifeng in a call to quickly carry out pledges from last year's Busan deal, including farm purchases and rare earth deliveries. China's state news agency said Beijing raised \"serious concerns\" about recent US trade curbs. Some tariff exclusions on Chinese goods lapse Nov. 10 unless renewed, and Trump and Xi are expected to meet at APEC in Shenzhen.",
+     "whyItMatters": "Rare earths are vital for electronics and defense, and the truce that keeps tariffs from rising runs only to Jan. 10."
+    }
+   ],
+   "title": "Economy & Markets"
+  }
+ ],
+ "spoken": {
+  "intro": "Good morning, Alexa! It's Sunday, November 8th, and here's your 9AM Brief. President Trump has told the Justice Department to investigate Democrats over their impeachment threats. The US is tightening its blockade on Iran, and in Israel, Netanyahu's rival Gadi Eisenkot gets the first shot at forming a government.",
+  "outro": "That's your brief for today. Enjoy your Sunday, Alexa, and talk to you tomorrow morning!"
+ }
+}
