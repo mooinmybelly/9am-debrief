@@ -2,7 +2,7 @@ The 9am Brief: for the girlypops who want easy, accessible news in style
 A daily news brief shown on a 2000s phone or iPod screen. Each morning at 9:00 AM Central a new edition is added to `editions/` and the site shows it automatically.
 
 **What's in each edition**
-- *In brief*: 3–4 one-line takeaways of the biggest things to know today.
+- *In brief*: 3-4 one-line takeaways of the biggest things to know today.
 - *United States*: 5 stories on national politics: the White House, Congress, the courts, elections and federal policy.
 - *States & Local*: 5 stories on governors, state legislatures, mayors, key races, ballot measures and rising political figures, plus St. Louis and Missouri news when something big happens.
 - *World*: 7–8 stories:
